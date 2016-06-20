@@ -1,0 +1,7946 @@
+[{
+	"_id": 1,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "Altagracia",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 2,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "Candelaria",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 3,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "Catedral",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 4,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "La Pastora",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 5,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "San Agustín",
+	"ine_municipio": 1,
+	"ine_parroquia": 5
+}, {
+	"_id": 6,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "San José",
+	"ine_municipio": 1,
+	"ine_parroquia": 6
+}, {
+	"_id": 7,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "San Juan",
+	"ine_municipio": 1,
+	"ine_parroquia": 7
+}, {
+	"_id": 8,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "Santa Rosalía",
+	"ine_municipio": 1,
+	"ine_parroquia": 8
+}, {
+	"_id": 9,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "Santa Teresa",
+	"ine_municipio": 1,
+	"ine_parroquia": 9
+}, {
+	"_id": 10,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "Sucre",
+	"ine_municipio": 1,
+	"ine_parroquia": 10
+}, {
+	"_id": 11,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "Antímano",
+	"ine_municipio": 1,
+	"ine_parroquia": 12
+}, {
+	"_id": 12,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "El Recreo",
+	"ine_municipio": 1,
+	"ine_parroquia": 13
+}, {
+	"_id": 13,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "23 de Enero",
+	"ine_municipio": 1,
+	"ine_parroquia": 11
+}, {
+	"_id": 14,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "El Valle",
+	"ine_municipio": 1,
+	"ine_parroquia": 14
+}, {
+	"_id": 15,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "La Vega",
+	"ine_municipio": 1,
+	"ine_parroquia": 15
+}, {
+	"_id": 16,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "Macarao",
+	"ine_municipio": 1,
+	"ine_parroquia": 16
+}, {
+	"_id": 17,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "Caricuao",
+	"ine_municipio": 1,
+	"ine_parroquia": 17
+}, {
+	"_id": 18,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "El Junquito",
+	"ine_municipio": 1,
+	"ine_parroquia": 18
+}, {
+	"_id": 19,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "Coche",
+	"ine_municipio": 1,
+	"ine_parroquia": 19
+}, {
+	"_id": 20,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "San Bernardino",
+	"ine_municipio": 1,
+	"ine_parroquia": 21
+}, {
+	"_id": 21,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "San Pedro",
+	"ine_municipio": 1,
+	"ine_parroquia": 20
+}, {
+	"_id": 22,
+	"estado_id": 1,
+	"municipio_id": 1,
+	"nombre": "El Paraíso",
+	"ine_municipio": 1,
+	"ine_parroquia": 22
+}, {
+	"_id": 23,
+	"estado_id": 2,
+	"municipio_id": 2,
+	"nombre": "Anaco",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 24,
+	"estado_id": 2,
+	"municipio_id": 2,
+	"nombre": "San Joaquín",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 25,
+	"estado_id": 2,
+	"municipio_id": 3,
+	"nombre": "El Carmen",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 26,
+	"estado_id": 2,
+	"municipio_id": 3,
+	"nombre": "San Cristóbal",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 27,
+	"estado_id": 2,
+	"municipio_id": 3,
+	"nombre": "Bergantín",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 28,
+	"estado_id": 2,
+	"municipio_id": 3,
+	"nombre": "Caigua",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 29,
+	"estado_id": 2,
+	"municipio_id": 3,
+	"nombre": "El Pilar",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 30,
+	"estado_id": 2,
+	"municipio_id": 3,
+	"nombre": "Naricual",
+	"ine_municipio": 3,
+	"ine_parroquia": 6
+}, {
+	"_id": 31,
+	"estado_id": 2,
+	"municipio_id": 4,
+	"nombre": "Clarines",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 32,
+	"estado_id": 2,
+	"municipio_id": 4,
+	"nombre": "Guanape",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 33,
+	"estado_id": 2,
+	"municipio_id": 4,
+	"nombre": "Sabana de Uchire",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 34,
+	"estado_id": 2,
+	"municipio_id": 5,
+	"nombre": "Aragua de Barcelona",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 35,
+	"estado_id": 2,
+	"municipio_id": 5,
+	"nombre": "Cachipo",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 36,
+	"estado_id": 2,
+	"municipio_id": 6,
+	"nombre": "Onoto",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 37,
+	"estado_id": 2,
+	"municipio_id": 6,
+	"nombre": "San Pablo",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 38,
+	"estado_id": 2,
+	"municipio_id": 7,
+	"nombre": "Cantaura ",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 39,
+	"estado_id": 2,
+	"municipio_id": 7,
+	"nombre": "Libertador",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 40,
+	"estado_id": 2,
+	"municipio_id": 7,
+	"nombre": "Santa Rosa",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 41,
+	"estado_id": 2,
+	"municipio_id": 7,
+	"nombre": "Urica",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 42,
+	"estado_id": 2,
+	"municipio_id": 8,
+	"nombre": "Soledad",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 43,
+	"estado_id": 2,
+	"municipio_id": 8,
+	"nombre": "Mamo",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 44,
+	"estado_id": 2,
+	"municipio_id": 9,
+	"nombre": "San Mateo ",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 45,
+	"estado_id": 2,
+	"municipio_id": 9,
+	"nombre": "El Carito",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 46,
+	"estado_id": 2,
+	"municipio_id": 9,
+	"nombre": "Santa Inés",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 47,
+	"estado_id": 2,
+	"municipio_id": 10,
+	"nombre": "Pariaguán",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 48,
+	"estado_id": 2,
+	"municipio_id": 10,
+	"nombre": "Atapirire",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 49,
+	"estado_id": 2,
+	"municipio_id": 10,
+	"nombre": "Boca del Pao",
+	"ine_municipio": 9,
+	"ine_parroquia": 3
+}, {
+	"_id": 50,
+	"estado_id": 2,
+	"municipio_id": 10,
+	"nombre": "El Pao",
+	"ine_municipio": 9,
+	"ine_parroquia": 4
+}, {
+	"_id": 51,
+	"estado_id": 2,
+	"municipio_id": 11,
+	"nombre": "Mapire",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 52,
+	"estado_id": 2,
+	"municipio_id": 11,
+	"nombre": "Piar",
+	"ine_municipio": 10,
+	"ine_parroquia": 2
+}, {
+	"_id": 53,
+	"estado_id": 2,
+	"municipio_id": 11,
+	"nombre": "San Diego de Cabrutica",
+	"ine_municipio": 10,
+	"ine_parroquia": 3
+}, {
+	"_id": 54,
+	"estado_id": 2,
+	"municipio_id": 11,
+	"nombre": "Santa Clara",
+	"ine_municipio": 10,
+	"ine_parroquia": 4
+}, {
+	"_id": 55,
+	"estado_id": 2,
+	"municipio_id": 11,
+	"nombre": "Uverito",
+	"ine_municipio": 10,
+	"ine_parroquia": 5
+}, {
+	"_id": 56,
+	"estado_id": 2,
+	"municipio_id": 11,
+	"nombre": "Zuata",
+	"ine_municipio": 10,
+	"ine_parroquia": 6
+}, {
+	"_id": 57,
+	"estado_id": 2,
+	"municipio_id": 12,
+	"nombre": "Puerto Píritu",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 58,
+	"estado_id": 2,
+	"municipio_id": 12,
+	"nombre": "San Miguel",
+	"ine_municipio": 11,
+	"ine_parroquia": 2
+}, {
+	"_id": 59,
+	"estado_id": 2,
+	"municipio_id": 12,
+	"nombre": "Sucre",
+	"ine_municipio": 11,
+	"ine_parroquia": 3
+}, {
+	"_id": 60,
+	"estado_id": 2,
+	"municipio_id": 13,
+	"nombre": "Edmundo Barrios",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 61,
+	"estado_id": 2,
+	"municipio_id": 14,
+	"nombre": "Pozuelos",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 62,
+	"estado_id": 2,
+	"municipio_id": 14,
+	"nombre": "Puerto la Cruz",
+	"ine_municipio": 13,
+	"ine_parroquia": 2
+}, {
+	"_id": 63,
+	"estado_id": 2,
+	"municipio_id": 15,
+	"nombre": "San José de Guanipa",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 64,
+	"estado_id": 2,
+	"municipio_id": 16,
+	"nombre": "Guanta",
+	"ine_municipio": 15,
+	"ine_parroquia": 1
+}, {
+	"_id": 65,
+	"estado_id": 2,
+	"municipio_id": 16,
+	"nombre": "Chorrerón",
+	"ine_municipio": 15,
+	"ine_parroquia": 2
+}, {
+	"_id": 66,
+	"estado_id": 2,
+	"municipio_id": 17,
+	"nombre": "Píritu",
+	"ine_municipio": 16,
+	"ine_parroquia": 1
+}, {
+	"_id": 67,
+	"estado_id": 2,
+	"municipio_id": 17,
+	"nombre": "San Francisco",
+	"ine_municipio": 16,
+	"ine_parroquia": 2
+}, {
+	"_id": 68,
+	"estado_id": 2,
+	"municipio_id": 18,
+	"nombre": "Lecherías",
+	"ine_municipio": 17,
+	"ine_parroquia": 1
+}, {
+	"_id": 69,
+	"estado_id": 2,
+	"municipio_id": 18,
+	"nombre": "El Morro",
+	"ine_municipio": 17,
+	"ine_parroquia": 2
+}, {
+	"_id": 70,
+	"estado_id": 2,
+	"municipio_id": 19,
+	"nombre": "Valle de Guanape",
+	"ine_municipio": 18,
+	"ine_parroquia": 1
+}, {
+	"_id": 71,
+	"estado_id": 2,
+	"municipio_id": 19,
+	"nombre": "Santa Bárbara",
+	"ine_municipio": 18,
+	"ine_parroquia": 2
+}, {
+	"_id": 72,
+	"estado_id": 2,
+	"municipio_id": 20,
+	"nombre": "Santa Ana",
+	"ine_municipio": 19,
+	"ine_parroquia": 1
+}, {
+	"_id": 73,
+	"estado_id": 2,
+	"municipio_id": 20,
+	"nombre": "Pueblo Nuevo",
+	"ine_municipio": 19,
+	"ine_parroquia": 2
+}, {
+	"_id": 74,
+	"estado_id": 2,
+	"municipio_id": 21,
+	"nombre": "Boca de Uchire",
+	"ine_municipio": 21,
+	"ine_parroquia": 1
+}, {
+	"_id": 75,
+	"estado_id": 2,
+	"municipio_id": 21,
+	"nombre": "Boca de Chávez",
+	"ine_municipio": 21,
+	"ine_parroquia": 2
+}, {
+	"_id": 76,
+	"estado_id": 2,
+	"municipio_id": 22,
+	"nombre": "El Chaparro",
+	"ine_municipio": 20,
+	"ine_parroquia": 1
+}, {
+	"_id": 77,
+	"estado_id": 2,
+	"municipio_id": 22,
+	"nombre": "Tomás Alfaro Calatrava",
+	"ine_municipio": 20,
+	"ine_parroquia": 2
+}, {
+	"_id": 78,
+	"estado_id": 3,
+	"municipio_id": 23,
+	"nombre": "Achaguas",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 79,
+	"estado_id": 3,
+	"municipio_id": 23,
+	"nombre": "Apurito",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 80,
+	"estado_id": 3,
+	"municipio_id": 23,
+	"nombre": "El Yagual",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 81,
+	"estado_id": 3,
+	"municipio_id": 23,
+	"nombre": "Guachara",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 82,
+	"estado_id": 3,
+	"municipio_id": 23,
+	"nombre": "Mucuritas",
+	"ine_municipio": 1,
+	"ine_parroquia": 5
+}, {
+	"_id": 83,
+	"estado_id": 3,
+	"municipio_id": 23,
+	"nombre": "Queseras del Medio",
+	"ine_municipio": 1,
+	"ine_parroquia": 6
+}, {
+	"_id": 84,
+	"estado_id": 3,
+	"municipio_id": 24,
+	"nombre": "Bruzual",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 85,
+	"estado_id": 3,
+	"municipio_id": 24,
+	"nombre": "Mantecal",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 86,
+	"estado_id": 3,
+	"municipio_id": 24,
+	"nombre": "Quintero",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 87,
+	"estado_id": 3,
+	"municipio_id": 24,
+	"nombre": "San Vicente",
+	"ine_municipio": 2,
+	"ine_parroquia": 4
+}, {
+	"_id": 88,
+	"estado_id": 3,
+	"municipio_id": 24,
+	"nombre": "Rincón Hondo",
+	"ine_municipio": 2,
+	"ine_parroquia": 5
+}, {
+	"_id": 89,
+	"estado_id": 3,
+	"municipio_id": 25,
+	"nombre": "Guasdualito",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 90,
+	"estado_id": 3,
+	"municipio_id": 25,
+	"nombre": "Aramendi",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 91,
+	"estado_id": 3,
+	"municipio_id": 25,
+	"nombre": "El Amparo",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 92,
+	"estado_id": 3,
+	"municipio_id": 25,
+	"nombre": "San Camilo",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 93,
+	"estado_id": 3,
+	"municipio_id": 25,
+	"nombre": "Urdaneta",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 94,
+	"estado_id": 3,
+	"municipio_id": 26,
+	"nombre": "San Juan de Payara",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 95,
+	"estado_id": 3,
+	"municipio_id": 26,
+	"nombre": "Codazzi",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 96,
+	"estado_id": 3,
+	"municipio_id": 26,
+	"nombre": "Cunaviche",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 97,
+	"estado_id": 3,
+	"municipio_id": 27,
+	"nombre": "Elorza",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 98,
+	"estado_id": 3,
+	"municipio_id": 27,
+	"nombre": "La Trinidad",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 99,
+	"estado_id": 3,
+	"municipio_id": 28,
+	"nombre": "San Fernando",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 100,
+	"estado_id": 3,
+	"municipio_id": 28,
+	"nombre": "Peñalver",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 101,
+	"estado_id": 3,
+	"municipio_id": 28,
+	"nombre": "El Recreo",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 102,
+	"estado_id": 3,
+	"municipio_id": 28,
+	"nombre": "San Rafael de Atamaica",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 103,
+	"estado_id": 3,
+	"municipio_id": 29,
+	"nombre": "Biruaca",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 104,
+	"estado_id": 4,
+	"municipio_id": 30,
+	"nombre": "Las Delicias",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 105,
+	"estado_id": 4,
+	"municipio_id": 30,
+	"nombre": "Choroní",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 106,
+	"estado_id": 4,
+	"municipio_id": 30,
+	"nombre": "Madre María de San José",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 107,
+	"estado_id": 4,
+	"municipio_id": 30,
+	"nombre": "Joaquín Crespo",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 108,
+	"estado_id": 4,
+	"municipio_id": 30,
+	"nombre": "Pedro José Ovalles",
+	"ine_municipio": 1,
+	"ine_parroquia": 5
+}, {
+	"_id": 109,
+	"estado_id": 4,
+	"municipio_id": 30,
+	"nombre": "José Casanova Godoy",
+	"ine_municipio": 1,
+	"ine_parroquia": 6
+}, {
+	"_id": 110,
+	"estado_id": 4,
+	"municipio_id": 30,
+	"nombre": "Andrés Eloy Blanco",
+	"ine_municipio": 1,
+	"ine_parroquia": 7
+}, {
+	"_id": 111,
+	"estado_id": 4,
+	"municipio_id": 30,
+	"nombre": "Los Tacariguas",
+	"ine_municipio": 1,
+	"ine_parroquia": 8
+}, {
+	"_id": 112,
+	"estado_id": 4,
+	"municipio_id": 31,
+	"nombre": "Turmero",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 113,
+	"estado_id": 4,
+	"municipio_id": 31,
+	"nombre": "Samán de Güere",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 114,
+	"estado_id": 4,
+	"municipio_id": 31,
+	"nombre": "Alfredo Pacheco Miranda",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 115,
+	"estado_id": 4,
+	"municipio_id": 31,
+	"nombre": "Chuao",
+	"ine_municipio": 2,
+	"ine_parroquia": 4
+}, {
+	"_id": 116,
+	"estado_id": 4,
+	"municipio_id": 31,
+	"nombre": "Arévalo Aponte",
+	"ine_municipio": 2,
+	"ine_parroquia": 5
+}, {
+	"_id": 117,
+	"estado_id": 4,
+	"municipio_id": 32,
+	"nombre": "La Victoria",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 118,
+	"estado_id": 4,
+	"municipio_id": 32,
+	"nombre": "Zuata",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 119,
+	"estado_id": 4,
+	"municipio_id": 32,
+	"nombre": "Pao de Zárate",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 120,
+	"estado_id": 4,
+	"municipio_id": 32,
+	"nombre": "Castor Nieves Ríos",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 121,
+	"estado_id": 4,
+	"municipio_id": 32,
+	"nombre": "Las Guacamayas",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 122,
+	"estado_id": 4,
+	"municipio_id": 33,
+	"nombre": "San Casimiro",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 123,
+	"estado_id": 4,
+	"municipio_id": 33,
+	"nombre": "Valle Morín",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 124,
+	"estado_id": 4,
+	"municipio_id": 33,
+	"nombre": "Güiripa",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 125,
+	"estado_id": 4,
+	"municipio_id": 33,
+	"nombre": "Ollas de Caramacate",
+	"ine_municipio": 4,
+	"ine_parroquia": 4
+}, {
+	"_id": 126,
+	"estado_id": 4,
+	"municipio_id": 34,
+	"nombre": "San Sebastián",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 127,
+	"estado_id": 4,
+	"municipio_id": 35,
+	"nombre": "Cagua",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 128,
+	"estado_id": 4,
+	"municipio_id": 35,
+	"nombre": "Bella Vista",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 129,
+	"estado_id": 4,
+	"municipio_id": 36,
+	"nombre": "Barbacoas",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 130,
+	"estado_id": 4,
+	"municipio_id": 36,
+	"nombre": "San Francisco de Cara",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 131,
+	"estado_id": 4,
+	"municipio_id": 36,
+	"nombre": "Taguay",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 132,
+	"estado_id": 4,
+	"municipio_id": 36,
+	"nombre": "Las Peñitas",
+	"ine_municipio": 7,
+	"ine_parroquia": 4
+}, {
+	"_id": 133,
+	"estado_id": 4,
+	"municipio_id": 37,
+	"nombre": "Villa de Cura",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 134,
+	"estado_id": 4,
+	"municipio_id": 37,
+	"nombre": "Magdaleno",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 135,
+	"estado_id": 4,
+	"municipio_id": 37,
+	"nombre": "San Francisco de Asís",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 136,
+	"estado_id": 4,
+	"municipio_id": 37,
+	"nombre": "Valles de Tucutunemo ",
+	"ine_municipio": 8,
+	"ine_parroquia": 4
+}, {
+	"_id": 137,
+	"estado_id": 4,
+	"municipio_id": 37,
+	"nombre": "Augusto Mijares",
+	"ine_municipio": 8,
+	"ine_parroquia": 5
+}, {
+	"_id": 138,
+	"estado_id": 4,
+	"municipio_id": 38,
+	"nombre": "Palo Negro",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 139,
+	"estado_id": 4,
+	"municipio_id": 38,
+	"nombre": "San Martín de Porres",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 140,
+	"estado_id": 4,
+	"municipio_id": 39,
+	"nombre": "Santa Cruz",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 141,
+	"estado_id": 4,
+	"municipio_id": 40,
+	"nombre": "San Mateo",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 142,
+	"estado_id": 4,
+	"municipio_id": 41,
+	"nombre": "Las Tejerías",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 143,
+	"estado_id": 4,
+	"municipio_id": 41,
+	"nombre": "Tiara",
+	"ine_municipio": 12,
+	"ine_parroquia": 2
+}, {
+	"_id": 144,
+	"estado_id": 4,
+	"municipio_id": 42,
+	"nombre": "El Limón",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 145,
+	"estado_id": 4,
+	"municipio_id": 42,
+	"nombre": "Caña de Azúcar",
+	"ine_municipio": 13,
+	"ine_parroquia": 2
+}, {
+	"_id": 146,
+	"estado_id": 4,
+	"municipio_id": 43,
+	"nombre": "Colonia Tovar",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 147,
+	"estado_id": 4,
+	"municipio_id": 44,
+	"nombre": "Camatagua",
+	"ine_municipio": 15,
+	"ine_parroquia": 1
+}, {
+	"_id": 148,
+	"estado_id": 4,
+	"municipio_id": 44,
+	"nombre": "Carmen de Cura",
+	"ine_municipio": 15,
+	"ine_parroquia": 2
+}, {
+	"_id": 149,
+	"estado_id": 4,
+	"municipio_id": 45,
+	"nombre": "El Consejo",
+	"ine_municipio": 16,
+	"ine_parroquia": 1
+}, {
+	"_id": 150,
+	"estado_id": 4,
+	"municipio_id": 46,
+	"nombre": "Santa Rita",
+	"ine_municipio": 17,
+	"ine_parroquia": 1
+}, {
+	"_id": 151,
+	"estado_id": 4,
+	"municipio_id": 46,
+	"nombre": "Francisco de Miranda",
+	"ine_municipio": 17,
+	"ine_parroquia": 2
+}, {
+	"_id": 152,
+	"estado_id": 4,
+	"municipio_id": 46,
+	"nombre": "Monseñor Feliciano González",
+	"ine_municipio": 17,
+	"ine_parroquia": 3
+}, {
+	"_id": 153,
+	"estado_id": 4,
+	"municipio_id": 47,
+	"nombre": "Ocumare de la Costa",
+	"ine_municipio": 18,
+	"ine_parroquia": 1
+}, {
+	"_id": 154,
+	"estado_id": 5,
+	"municipio_id": 48,
+	"nombre": "Arismendi",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 155,
+	"estado_id": 5,
+	"municipio_id": 48,
+	"nombre": "Guadarrama",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 156,
+	"estado_id": 5,
+	"municipio_id": 48,
+	"nombre": "La Unión",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 157,
+	"estado_id": 5,
+	"municipio_id": 48,
+	"nombre": "San Antonio",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 158,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Alfredo Arvelo Larriva",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 159,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Barinas",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 160,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "San Silvestre",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 161,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Santa Inés",
+	"ine_municipio": 2,
+	"ine_parroquia": 4
+}, {
+	"_id": 162,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Santa Lucía",
+	"ine_municipio": 2,
+	"ine_parroquia": 5
+}, {
+	"_id": 163,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Torunos",
+	"ine_municipio": 2,
+	"ine_parroquia": 6
+}, {
+	"_id": 164,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "El Carmen",
+	"ine_municipio": 2,
+	"ine_parroquia": 7
+}, {
+	"_id": 165,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Rómulo Betancourt",
+	"ine_municipio": 2,
+	"ine_parroquia": 8
+}, {
+	"_id": 166,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Corazón de Jesús",
+	"ine_municipio": 2,
+	"ine_parroquia": 9
+}, {
+	"_id": 167,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Ramón Ignacio Méndez",
+	"ine_municipio": 2,
+	"ine_parroquia": 10
+}, {
+	"_id": 168,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Alto Barinas",
+	"ine_municipio": 2,
+	"ine_parroquia": 11
+}, {
+	"_id": 169,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Manuel Palacio Fajardo",
+	"ine_municipio": 2,
+	"ine_parroquia": 12
+}, {
+	"_id": 170,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Dominga Ortiz de Páez",
+	"ine_municipio": 2,
+	"ine_parroquia": 14
+}, {
+	"_id": 171,
+	"estado_id": 5,
+	"municipio_id": 49,
+	"nombre": "Juan Antonio Rodríguez Domínguez",
+	"ine_municipio": 2,
+	"ine_parroquia": 13
+}, {
+	"_id": 172,
+	"estado_id": 5,
+	"municipio_id": 50,
+	"nombre": "Altamira",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 173,
+	"estado_id": 5,
+	"municipio_id": 50,
+	"nombre": "Barinitas",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 174,
+	"estado_id": 5,
+	"municipio_id": 50,
+	"nombre": "Calderas",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 175,
+	"estado_id": 5,
+	"municipio_id": 51,
+	"nombre": "Santa Bárbara",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 176,
+	"estado_id": 5,
+	"municipio_id": 51,
+	"nombre": "José Ignacio del Pumar",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 177,
+	"estado_id": 5,
+	"municipio_id": 51,
+	"nombre": "Ramón Ignacio Méndez",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 178,
+	"estado_id": 5,
+	"municipio_id": 51,
+	"nombre": "Pedro Briceño Méndez",
+	"ine_municipio": 4,
+	"ine_parroquia": 4
+}, {
+	"_id": 179,
+	"estado_id": 5,
+	"municipio_id": 52,
+	"nombre": "El Real",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 180,
+	"estado_id": 5,
+	"municipio_id": 52,
+	"nombre": "La Luz",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 181,
+	"estado_id": 5,
+	"municipio_id": 52,
+	"nombre": "Obispos",
+	"ine_municipio": 5,
+	"ine_parroquia": 3
+}, {
+	"_id": 182,
+	"estado_id": 5,
+	"municipio_id": 52,
+	"nombre": "Los Guasimitos",
+	"ine_municipio": 5,
+	"ine_parroquia": 4
+}, {
+	"_id": 183,
+	"estado_id": 5,
+	"municipio_id": 53,
+	"nombre": "Ciudad Bolivia",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 184,
+	"estado_id": 5,
+	"municipio_id": 53,
+	"nombre": "Ignacio Briceño",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 185,
+	"estado_id": 5,
+	"municipio_id": 53,
+	"nombre": "Páez",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 186,
+	"estado_id": 5,
+	"municipio_id": 53,
+	"nombre": "José Félix Ribas",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 187,
+	"estado_id": 5,
+	"municipio_id": 54,
+	"nombre": "Dolores",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 188,
+	"estado_id": 5,
+	"municipio_id": 54,
+	"nombre": "Libertad",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 189,
+	"estado_id": 5,
+	"municipio_id": 54,
+	"nombre": "Palacios Fajardo",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 190,
+	"estado_id": 5,
+	"municipio_id": 54,
+	"nombre": "Santa Rosa",
+	"ine_municipio": 7,
+	"ine_parroquia": 4
+}, {
+	"_id": 191,
+	"estado_id": 5,
+	"municipio_id": 55,
+	"nombre": "Ciudad de Nutrias",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 192,
+	"estado_id": 5,
+	"municipio_id": 55,
+	"nombre": "El Regalo",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 193,
+	"estado_id": 5,
+	"municipio_id": 55,
+	"nombre": "Puerto de Nutrias",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 194,
+	"estado_id": 5,
+	"municipio_id": 55,
+	"nombre": "Santa Catalina",
+	"ine_municipio": 8,
+	"ine_parroquia": 4
+}, {
+	"_id": 195,
+	"estado_id": 5,
+	"municipio_id": 56,
+	"nombre": "Rodríguez Domínguez",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 196,
+	"estado_id": 5,
+	"municipio_id": 56,
+	"nombre": "Sabaneta",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 197,
+	"estado_id": 5,
+	"municipio_id": 57,
+	"nombre": "Ticoporo",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 198,
+	"estado_id": 5,
+	"municipio_id": 57,
+	"nombre": "Nicolás Pulido",
+	"ine_municipio": 10,
+	"ine_parroquia": 2
+}, {
+	"_id": 199,
+	"estado_id": 5,
+	"municipio_id": 57,
+	"nombre": "Andrés Bello",
+	"ine_municipio": 10,
+	"ine_parroquia": 3
+}, {
+	"_id": 200,
+	"estado_id": 5,
+	"municipio_id": 58,
+	"nombre": "Barrancas",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 201,
+	"estado_id": 5,
+	"municipio_id": 58,
+	"nombre": "El Socorro",
+	"ine_municipio": 11,
+	"ine_parroquia": 2
+}, {
+	"_id": 202,
+	"estado_id": 5,
+	"municipio_id": 58,
+	"nombre": "Masparrito",
+	"ine_municipio": 11,
+	"ine_parroquia": 3
+}, {
+	"_id": 203,
+	"estado_id": 5,
+	"municipio_id": 59,
+	"nombre": "El Cantón",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 204,
+	"estado_id": 5,
+	"municipio_id": 59,
+	"nombre": "Santa Cruz de Guacas",
+	"ine_municipio": 12,
+	"ine_parroquia": 2
+}, {
+	"_id": 205,
+	"estado_id": 5,
+	"municipio_id": 59,
+	"nombre": "Puerto Vivas",
+	"ine_municipio": 12,
+	"ine_parroquia": 3
+}, {
+	"_id": 206,
+	"estado_id": 6,
+	"municipio_id": 60,
+	"nombre": "Simón Bolívar",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 207,
+	"estado_id": 6,
+	"municipio_id": 60,
+	"nombre": "Once de Abril",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 208,
+	"estado_id": 6,
+	"municipio_id": 60,
+	"nombre": "Vista al Sol",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 209,
+	"estado_id": 6,
+	"municipio_id": 60,
+	"nombre": "Chirica",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 210,
+	"estado_id": 6,
+	"municipio_id": 60,
+	"nombre": "Dalla Costa",
+	"ine_municipio": 1,
+	"ine_parroquia": 5
+}, {
+	"_id": 211,
+	"estado_id": 6,
+	"municipio_id": 60,
+	"nombre": "Cinco de Julio",
+	"ine_municipio": 1,
+	"ine_parroquia": 11
+}, {
+	"_id": 212,
+	"estado_id": 6,
+	"municipio_id": 60,
+	"nombre": "Cachamay",
+	"ine_municipio": 1,
+	"ine_parroquia": 6
+}, {
+	"_id": 213,
+	"estado_id": 6,
+	"municipio_id": 60,
+	"nombre": "Universidad",
+	"ine_municipio": 1,
+	"ine_parroquia": 7
+}, {
+	"_id": 214,
+	"estado_id": 6,
+	"municipio_id": 60,
+	"nombre": "Unare",
+	"ine_municipio": 1,
+	"ine_parroquia": 8
+}, {
+	"_id": 215,
+	"estado_id": 6,
+	"municipio_id": 60,
+	"nombre": "Yocoima",
+	"ine_municipio": 1,
+	"ine_parroquia": 9
+}, {
+	"_id": 216,
+	"estado_id": 6,
+	"municipio_id": 60,
+	"nombre": "Pozo Verde",
+	"ine_municipio": 1,
+	"ine_parroquia": 10
+}, {
+	"_id": 217,
+	"estado_id": 6,
+	"municipio_id": 61,
+	"nombre": "Caicara del Orinoco",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 218,
+	"estado_id": 6,
+	"municipio_id": 61,
+	"nombre": "Ascensión Farreras",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 219,
+	"estado_id": 6,
+	"municipio_id": 61,
+	"nombre": "Altagracia",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 220,
+	"estado_id": 6,
+	"municipio_id": 61,
+	"nombre": "La Urbana",
+	"ine_municipio": 2,
+	"ine_parroquia": 4
+}, {
+	"_id": 221,
+	"estado_id": 6,
+	"municipio_id": 61,
+	"nombre": "Guaniamo",
+	"ine_municipio": 2,
+	"ine_parroquia": 5
+}, {
+	"_id": 222,
+	"estado_id": 6,
+	"municipio_id": 61,
+	"nombre": "Pijiguaos",
+	"ine_municipio": 2,
+	"ine_parroquia": 6
+}, {
+	"_id": 223,
+	"estado_id": 6,
+	"municipio_id": 62,
+	"nombre": "Catedral",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 224,
+	"estado_id": 6,
+	"municipio_id": 62,
+	"nombre": "Agua Salada",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 225,
+	"estado_id": 6,
+	"municipio_id": 62,
+	"nombre": "La Sabanita",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 226,
+	"estado_id": 6,
+	"municipio_id": 62,
+	"nombre": "Vista Hermosa",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 227,
+	"estado_id": 6,
+	"municipio_id": 62,
+	"nombre": "Marhuanta",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 228,
+	"estado_id": 6,
+	"municipio_id": 62,
+	"nombre": "José Antonio Páez",
+	"ine_municipio": 3,
+	"ine_parroquia": 6
+}, {
+	"_id": 229,
+	"estado_id": 6,
+	"municipio_id": 62,
+	"nombre": "Orinoco",
+	"ine_municipio": 3,
+	"ine_parroquia": 7
+}, {
+	"_id": 230,
+	"estado_id": 6,
+	"municipio_id": 62,
+	"nombre": "Panapana",
+	"ine_municipio": 3,
+	"ine_parroquia": 8
+}, {
+	"_id": 231,
+	"estado_id": 6,
+	"municipio_id": 62,
+	"nombre": "Zea",
+	"ine_municipio": 3,
+	"ine_parroquia": 9
+}, {
+	"_id": 232,
+	"estado_id": 6,
+	"municipio_id": 63,
+	"nombre": "Upata",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 233,
+	"estado_id": 6,
+	"municipio_id": 63,
+	"nombre": "Andrés Eloy Blanco",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 234,
+	"estado_id": 6,
+	"municipio_id": 63,
+	"nombre": "Pedro Cova",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 235,
+	"estado_id": 6,
+	"municipio_id": 64,
+	"nombre": "Guasipati",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 236,
+	"estado_id": 6,
+	"municipio_id": 64,
+	"nombre": "Salom",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 237,
+	"estado_id": 6,
+	"municipio_id": 65,
+	"nombre": "Maripa",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 238,
+	"estado_id": 6,
+	"municipio_id": 65,
+	"nombre": "Aripao",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 239,
+	"estado_id": 6,
+	"municipio_id": 65,
+	"nombre": "Las Majadas",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 240,
+	"estado_id": 6,
+	"municipio_id": 65,
+	"nombre": "Moitaco",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 241,
+	"estado_id": 6,
+	"municipio_id": 65,
+	"nombre": "Guarataro",
+	"ine_municipio": 6,
+	"ine_parroquia": 5
+}, {
+	"_id": 242,
+	"estado_id": 6,
+	"municipio_id": 66,
+	"nombre": "Tumeremo",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 243,
+	"estado_id": 6,
+	"municipio_id": 66,
+	"nombre": "Dalla Costa",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 244,
+	"estado_id": 6,
+	"municipio_id": 66,
+	"nombre": "San Isidro",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 245,
+	"estado_id": 6,
+	"municipio_id": 67,
+	"nombre": "Ciudad Piar",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 246,
+	"estado_id": 6,
+	"municipio_id": 67,
+	"nombre": "San Francisco",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 247,
+	"estado_id": 6,
+	"municipio_id": 67,
+	"nombre": "Barceloneta",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 248,
+	"estado_id": 6,
+	"municipio_id": 67,
+	"nombre": "Santa Bárbara",
+	"ine_municipio": 8,
+	"ine_parroquia": 4
+}, {
+	"_id": 249,
+	"estado_id": 6,
+	"municipio_id": 68,
+	"nombre": "Santa Elena de Uairen",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 250,
+	"estado_id": 6,
+	"municipio_id": 68,
+	"nombre": "Ikabarú",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 251,
+	"estado_id": 6,
+	"municipio_id": 69,
+	"nombre": "El Callao",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 252,
+	"estado_id": 6,
+	"municipio_id": 70,
+	"nombre": "El Palmar",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 253,
+	"estado_id": 7,
+	"municipio_id": 71,
+	"nombre": "Bejuma",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 254,
+	"estado_id": 7,
+	"municipio_id": 71,
+	"nombre": "Canoabo",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 255,
+	"estado_id": 7,
+	"municipio_id": 71,
+	"nombre": "Simón Bolívar",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 256,
+	"estado_id": 7,
+	"municipio_id": 72,
+	"nombre": "Güigüe",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 257,
+	"estado_id": 7,
+	"municipio_id": 72,
+	"nombre": "Belén",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 258,
+	"estado_id": 7,
+	"municipio_id": 72,
+	"nombre": "Tacarigua",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 259,
+	"estado_id": 7,
+	"municipio_id": 73,
+	"nombre": "Mariara",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 260,
+	"estado_id": 7,
+	"municipio_id": 73,
+	"nombre": "Aguas Calientes",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 261,
+	"estado_id": 7,
+	"municipio_id": 74,
+	"nombre": "Guacara",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 262,
+	"estado_id": 7,
+	"municipio_id": 74,
+	"nombre": "Ciudad Alianza",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 263,
+	"estado_id": 7,
+	"municipio_id": 74,
+	"nombre": "Yagua",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 264,
+	"estado_id": 7,
+	"municipio_id": 75,
+	"nombre": "Montalbán",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 265,
+	"estado_id": 7,
+	"municipio_id": 76,
+	"nombre": "Morón",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 266,
+	"estado_id": 7,
+	"municipio_id": 76,
+	"nombre": "Urama",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 267,
+	"estado_id": 7,
+	"municipio_id": 77,
+	"nombre": "Democracia",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 268,
+	"estado_id": 7,
+	"municipio_id": 77,
+	"nombre": "Fraternidad",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 269,
+	"estado_id": 7,
+	"municipio_id": 77,
+	"nombre": "Goaigoaza",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 270,
+	"estado_id": 7,
+	"municipio_id": 77,
+	"nombre": "Juan José Flores",
+	"ine_municipio": 7,
+	"ine_parroquia": 4
+}, {
+	"_id": 271,
+	"estado_id": 7,
+	"municipio_id": 77,
+	"nombre": "Bartolomé Salom",
+	"ine_municipio": 7,
+	"ine_parroquia": 5
+}, {
+	"_id": 272,
+	"estado_id": 7,
+	"municipio_id": 77,
+	"nombre": "Unión",
+	"ine_municipio": 7,
+	"ine_parroquia": 6
+}, {
+	"_id": 273,
+	"estado_id": 7,
+	"municipio_id": 77,
+	"nombre": "Borburata",
+	"ine_municipio": 7,
+	"ine_parroquia": 7
+}, {
+	"_id": 274,
+	"estado_id": 7,
+	"municipio_id": 77,
+	"nombre": "Patanemo",
+	"ine_municipio": 7,
+	"ine_parroquia": 8
+}, {
+	"_id": 275,
+	"estado_id": 7,
+	"municipio_id": 78,
+	"nombre": "San Joaquín",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 276,
+	"estado_id": 7,
+	"municipio_id": 79,
+	"nombre": "Candelaria",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 277,
+	"estado_id": 7,
+	"municipio_id": 79,
+	"nombre": "Catedral",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 278,
+	"estado_id": 7,
+	"municipio_id": 79,
+	"nombre": "El Socorro",
+	"ine_municipio": 9,
+	"ine_parroquia": 3
+}, {
+	"_id": 279,
+	"estado_id": 7,
+	"municipio_id": 79,
+	"nombre": "Miguel Peña",
+	"ine_municipio": 9,
+	"ine_parroquia": 4
+}, {
+	"_id": 280,
+	"estado_id": 7,
+	"municipio_id": 79,
+	"nombre": "San Blas",
+	"ine_municipio": 9,
+	"ine_parroquia": 5
+}, {
+	"_id": 281,
+	"estado_id": 7,
+	"municipio_id": 79,
+	"nombre": "San José",
+	"ine_municipio": 9,
+	"ine_parroquia": 6
+}, {
+	"_id": 282,
+	"estado_id": 7,
+	"municipio_id": 79,
+	"nombre": "Santa Rosa",
+	"ine_municipio": 9,
+	"ine_parroquia": 7
+}, {
+	"_id": 283,
+	"estado_id": 7,
+	"municipio_id": 79,
+	"nombre": "Rafael Urdaneta",
+	"ine_municipio": 9,
+	"ine_parroquia": 8
+}, {
+	"_id": 284,
+	"estado_id": 7,
+	"municipio_id": 79,
+	"nombre": "Negro Primero",
+	"ine_municipio": 9,
+	"ine_parroquia": 9
+}, {
+	"_id": 285,
+	"estado_id": 7,
+	"municipio_id": 80,
+	"nombre": "Miranda",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 286,
+	"estado_id": 7,
+	"municipio_id": 81,
+	"nombre": "Los Guayos",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 287,
+	"estado_id": 7,
+	"municipio_id": 82,
+	"nombre": "Naguanagua",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 288,
+	"estado_id": 7,
+	"municipio_id": 83,
+	"nombre": "San Diego",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 289,
+	"estado_id": 7,
+	"municipio_id": 84,
+	"nombre": "Tocuyito",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 290,
+	"estado_id": 7,
+	"municipio_id": 84,
+	"nombre": "Independencia",
+	"ine_municipio": 14,
+	"ine_parroquia": 2
+}, {
+	"_id": 291,
+	"estado_id": 8,
+	"municipio_id": 85,
+	"nombre": "Cojedes",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 292,
+	"estado_id": 8,
+	"municipio_id": 85,
+	"nombre": "Juan de Mata Suárez",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 293,
+	"estado_id": 8,
+	"municipio_id": 86,
+	"nombre": "Tinaquillo",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 294,
+	"estado_id": 8,
+	"municipio_id": 87,
+	"nombre": "El Baúl",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 295,
+	"estado_id": 8,
+	"municipio_id": 87,
+	"nombre": "Sucre",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 296,
+	"estado_id": 8,
+	"municipio_id": 88,
+	"nombre": "El Pao",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 297,
+	"estado_id": 8,
+	"municipio_id": 89,
+	"nombre": "Libertad de Cojedes",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 298,
+	"estado_id": 8,
+	"municipio_id": 89,
+	"nombre": "El Amparo",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 299,
+	"estado_id": 8,
+	"municipio_id": 90,
+	"nombre": "San Carlos de Austria",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 300,
+	"estado_id": 8,
+	"municipio_id": 90,
+	"nombre": "Juan Angel Bravo",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 301,
+	"estado_id": 8,
+	"municipio_id": 90,
+	"nombre": "Manuel Manrique",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 302,
+	"estado_id": 8,
+	"municipio_id": 91,
+	"nombre": "General en Jefe José Laurencio Silva",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 303,
+	"estado_id": 8,
+	"municipio_id": 92,
+	"nombre": "Macapo",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 304,
+	"estado_id": 8,
+	"municipio_id": 92,
+	"nombre": "La Aguadita",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 305,
+	"estado_id": 8,
+	"municipio_id": 93,
+	"nombre": "Rómulo Gallegos",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 306,
+	"estado_id": 9,
+	"municipio_id": 94,
+	"nombre": "San Juan de los Cayos",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 307,
+	"estado_id": 9,
+	"municipio_id": 94,
+	"nombre": "Capadare",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 308,
+	"estado_id": 9,
+	"municipio_id": 94,
+	"nombre": "La Pastora",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 309,
+	"estado_id": 9,
+	"municipio_id": 94,
+	"nombre": "Libertador",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 310,
+	"estado_id": 9,
+	"municipio_id": 95,
+	"nombre": "San Luis",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 311,
+	"estado_id": 9,
+	"municipio_id": 95,
+	"nombre": "Aracua",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 312,
+	"estado_id": 9,
+	"municipio_id": 95,
+	"nombre": "La Peña",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 313,
+	"estado_id": 9,
+	"municipio_id": 96,
+	"nombre": "Capatárida",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 314,
+	"estado_id": 9,
+	"municipio_id": 96,
+	"nombre": "Borojó",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 315,
+	"estado_id": 9,
+	"municipio_id": 96,
+	"nombre": "Seque",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 316,
+	"estado_id": 9,
+	"municipio_id": 96,
+	"nombre": "Zazárida",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 317,
+	"estado_id": 9,
+	"municipio_id": 96,
+	"nombre": "Bariro",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 318,
+	"estado_id": 9,
+	"municipio_id": 96,
+	"nombre": "Guajiro",
+	"ine_municipio": 3,
+	"ine_parroquia": 6
+}, {
+	"_id": 319,
+	"estado_id": 9,
+	"municipio_id": 97,
+	"nombre": "Norte",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 320,
+	"estado_id": 9,
+	"municipio_id": 97,
+	"nombre": "Carirubana",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 321,
+	"estado_id": 9,
+	"municipio_id": 97,
+	"nombre": "Punta Cardón",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 322,
+	"estado_id": 9,
+	"municipio_id": 97,
+	"nombre": "Santa Ana",
+	"ine_municipio": 4,
+	"ine_parroquia": 4
+}, {
+	"_id": 323,
+	"estado_id": 9,
+	"municipio_id": 98,
+	"nombre": "La Vela de Coro",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 324,
+	"estado_id": 9,
+	"municipio_id": 98,
+	"nombre": "Acurigua",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 325,
+	"estado_id": 9,
+	"municipio_id": 98,
+	"nombre": "Guaibacoa",
+	"ine_municipio": 5,
+	"ine_parroquia": 3
+}, {
+	"_id": 326,
+	"estado_id": 9,
+	"municipio_id": 98,
+	"nombre": "Macoruca",
+	"ine_municipio": 5,
+	"ine_parroquia": 4
+}, {
+	"_id": 327,
+	"estado_id": 9,
+	"municipio_id": 98,
+	"nombre": "Las Calderas",
+	"ine_municipio": 5,
+	"ine_parroquia": 5
+}, {
+	"_id": 328,
+	"estado_id": 9,
+	"municipio_id": 99,
+	"nombre": "Pedregal",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 329,
+	"estado_id": 9,
+	"municipio_id": 99,
+	"nombre": "Agua Clara",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 330,
+	"estado_id": 9,
+	"municipio_id": 99,
+	"nombre": "Avaria",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 331,
+	"estado_id": 9,
+	"municipio_id": 99,
+	"nombre": "Piedra Grande",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 332,
+	"estado_id": 9,
+	"municipio_id": 99,
+	"nombre": "Purureche",
+	"ine_municipio": 6,
+	"ine_parroquia": 5
+}, {
+	"_id": 333,
+	"estado_id": 9,
+	"municipio_id": 100,
+	"nombre": "Pueblo Nuevo",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 334,
+	"estado_id": 9,
+	"municipio_id": 100,
+	"nombre": "Adícora",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 335,
+	"estado_id": 9,
+	"municipio_id": 100,
+	"nombre": "Baraived",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 336,
+	"estado_id": 9,
+	"municipio_id": 100,
+	"nombre": "Buena Vista",
+	"ine_municipio": 7,
+	"ine_parroquia": 4
+}, {
+	"_id": 337,
+	"estado_id": 9,
+	"municipio_id": 100,
+	"nombre": "Jadacaquiva",
+	"ine_municipio": 7,
+	"ine_parroquia": 5
+}, {
+	"_id": 338,
+	"estado_id": 9,
+	"municipio_id": 100,
+	"nombre": "Moruy",
+	"ine_municipio": 7,
+	"ine_parroquia": 6
+}, {
+	"_id": 339,
+	"estado_id": 9,
+	"municipio_id": 100,
+	"nombre": "El Vínculo",
+	"ine_municipio": 7,
+	"ine_parroquia": 7
+}, {
+	"_id": 340,
+	"estado_id": 9,
+	"municipio_id": 100,
+	"nombre": "El Hato",
+	"ine_municipio": 7,
+	"ine_parroquia": 8
+}, {
+	"_id": 341,
+	"estado_id": 9,
+	"municipio_id": 100,
+	"nombre": "Adaure",
+	"ine_municipio": 7,
+	"ine_parroquia": 9
+}, {
+	"_id": 342,
+	"estado_id": 9,
+	"municipio_id": 101,
+	"nombre": "Churuguara",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 343,
+	"estado_id": 9,
+	"municipio_id": 101,
+	"nombre": "Agua Larga",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 344,
+	"estado_id": 9,
+	"municipio_id": 101,
+	"nombre": "Independencia",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 345,
+	"estado_id": 9,
+	"municipio_id": 101,
+	"nombre": "Mapararí",
+	"ine_municipio": 8,
+	"ine_parroquia": 4
+}, {
+	"_id": 346,
+	"estado_id": 9,
+	"municipio_id": 101,
+	"nombre": "El Paují",
+	"ine_municipio": 8,
+	"ine_parroquia": 5
+}, {
+	"_id": 347,
+	"estado_id": 9,
+	"municipio_id": 102,
+	"nombre": "Mene de Mauroa",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 348,
+	"estado_id": 9,
+	"municipio_id": 102,
+	"nombre": "Casigua",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 349,
+	"estado_id": 9,
+	"municipio_id": 102,
+	"nombre": "San Félix",
+	"ine_municipio": 9,
+	"ine_parroquia": 3
+}, {
+	"_id": 350,
+	"estado_id": 9,
+	"municipio_id": 103,
+	"nombre": "San Antonio",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 351,
+	"estado_id": 9,
+	"municipio_id": 103,
+	"nombre": "San Gabriel",
+	"ine_municipio": 10,
+	"ine_parroquia": 2
+}, {
+	"_id": 352,
+	"estado_id": 9,
+	"municipio_id": 103,
+	"nombre": "Santa Ana",
+	"ine_municipio": 10,
+	"ine_parroquia": 3
+}, {
+	"_id": 353,
+	"estado_id": 9,
+	"municipio_id": 103,
+	"nombre": "Guzmán Guillermo",
+	"ine_municipio": 10,
+	"ine_parroquia": 4
+}, {
+	"_id": 354,
+	"estado_id": 9,
+	"municipio_id": 103,
+	"nombre": "Mitare",
+	"ine_municipio": 10,
+	"ine_parroquia": 5
+}, {
+	"_id": 355,
+	"estado_id": 9,
+	"municipio_id": 103,
+	"nombre": "Sabaneta",
+	"ine_municipio": 10,
+	"ine_parroquia": 6
+}, {
+	"_id": 356,
+	"estado_id": 9,
+	"municipio_id": 103,
+	"nombre": "Río Seco",
+	"ine_municipio": 10,
+	"ine_parroquia": 7
+}, {
+	"_id": 357,
+	"estado_id": 9,
+	"municipio_id": 104,
+	"nombre": "Cabure",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 358,
+	"estado_id": 9,
+	"municipio_id": 104,
+	"nombre": "Curimagua",
+	"ine_municipio": 11,
+	"ine_parroquia": 2
+}, {
+	"_id": 359,
+	"estado_id": 9,
+	"municipio_id": 104,
+	"nombre": "Colina",
+	"ine_municipio": 11,
+	"ine_parroquia": 3
+}, {
+	"_id": 360,
+	"estado_id": 9,
+	"municipio_id": 105,
+	"nombre": "Tucacas",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 361,
+	"estado_id": 9,
+	"municipio_id": 105,
+	"nombre": "Boca de Aroa",
+	"ine_municipio": 12,
+	"ine_parroquia": 2
+}, {
+	"_id": 362,
+	"estado_id": 9,
+	"municipio_id": 106,
+	"nombre": "Puerto Cumarebo",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 363,
+	"estado_id": 9,
+	"municipio_id": 106,
+	"nombre": "La Ciénaga",
+	"ine_municipio": 13,
+	"ine_parroquia": 2
+}, {
+	"_id": 364,
+	"estado_id": 9,
+	"municipio_id": 106,
+	"nombre": "La Soledad",
+	"ine_municipio": 13,
+	"ine_parroquia": 3
+}, {
+	"_id": 365,
+	"estado_id": 9,
+	"municipio_id": 106,
+	"nombre": "Pueblo Cumarebo",
+	"ine_municipio": 13,
+	"ine_parroquia": 4
+}, {
+	"_id": 366,
+	"estado_id": 9,
+	"municipio_id": 106,
+	"nombre": "Zazárida",
+	"ine_municipio": 13,
+	"ine_parroquia": 5
+}, {
+	"_id": 367,
+	"estado_id": 9,
+	"municipio_id": 107,
+	"nombre": "Dabajuro",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 368,
+	"estado_id": 9,
+	"municipio_id": 108,
+	"nombre": "Chichiriviche",
+	"ine_municipio": 15,
+	"ine_parroquia": 1
+}, {
+	"_id": 369,
+	"estado_id": 9,
+	"municipio_id": 108,
+	"nombre": "Boca de Tocuyo",
+	"ine_municipio": 15,
+	"ine_parroquia": 2
+}, {
+	"_id": 370,
+	"estado_id": 9,
+	"municipio_id": 108,
+	"nombre": "Tocuyo de la Costa",
+	"ine_municipio": 15,
+	"ine_parroquia": 3
+}, {
+	"_id": 371,
+	"estado_id": 9,
+	"municipio_id": 109,
+	"nombre": "Los Taques",
+	"ine_municipio": 16,
+	"ine_parroquia": 1
+}, {
+	"_id": 372,
+	"estado_id": 9,
+	"municipio_id": 109,
+	"nombre": "Judibana",
+	"ine_municipio": 16,
+	"ine_parroquia": 2
+}, {
+	"_id": 373,
+	"estado_id": 9,
+	"municipio_id": 110,
+	"nombre": "Píritu",
+	"ine_municipio": 17,
+	"ine_parroquia": 1
+}, {
+	"_id": 374,
+	"estado_id": 9,
+	"municipio_id": 110,
+	"nombre": "San José de la Costa",
+	"ine_municipio": 17,
+	"ine_parroquia": 2
+}, {
+	"_id": 375,
+	"estado_id": 9,
+	"municipio_id": 111,
+	"nombre": "Santa Cruz de Bucaral",
+	"ine_municipio": 18,
+	"ine_parroquia": 1
+}, {
+	"_id": 376,
+	"estado_id": 9,
+	"municipio_id": 111,
+	"nombre": "El Charal",
+	"ine_municipio": 18,
+	"ine_parroquia": 2
+}, {
+	"_id": 377,
+	"estado_id": 9,
+	"municipio_id": 111,
+	"nombre": "Las Vegas del Tuy",
+	"ine_municipio": 18,
+	"ine_parroquia": 3
+}, {
+	"_id": 378,
+	"estado_id": 9,
+	"municipio_id": 112,
+	"nombre": "Mirimire",
+	"ine_municipio": 19,
+	"ine_parroquia": 1
+}, {
+	"_id": 379,
+	"estado_id": 9,
+	"municipio_id": 113,
+	"nombre": "Jacura",
+	"ine_municipio": 20,
+	"ine_parroquia": 1
+}, {
+	"_id": 380,
+	"estado_id": 9,
+	"municipio_id": 113,
+	"nombre": "Agua Linda",
+	"ine_municipio": 20,
+	"ine_parroquia": 2
+}, {
+	"_id": 381,
+	"estado_id": 9,
+	"municipio_id": 113,
+	"nombre": "Araurima",
+	"ine_municipio": 20,
+	"ine_parroquia": 3
+}, {
+	"_id": 382,
+	"estado_id": 9,
+	"municipio_id": 114,
+	"nombre": "Yaracal",
+	"ine_municipio": 21,
+	"ine_parroquia": 1
+}, {
+	"_id": 383,
+	"estado_id": 9,
+	"municipio_id": 115,
+	"nombre": "Palmasola",
+	"ine_municipio": 22,
+	"ine_parroquia": 1
+}, {
+	"_id": 384,
+	"estado_id": 9,
+	"municipio_id": 116,
+	"nombre": "Urumaco",
+	"ine_municipio": 24,
+	"ine_parroquia": 1
+}, {
+	"_id": 385,
+	"estado_id": 9,
+	"municipio_id": 116,
+	"nombre": "Bruzual",
+	"ine_municipio": 24,
+	"ine_parroquia": 2
+}, {
+	"_id": 386,
+	"estado_id": 9,
+	"municipio_id": 117,
+	"nombre": "Sucre",
+	"ine_municipio": 23,
+	"ine_parroquia": 1
+}, {
+	"_id": 387,
+	"estado_id": 9,
+	"municipio_id": 117,
+	"nombre": "Pecaya",
+	"ine_municipio": 23,
+	"ine_parroquia": 2
+}, {
+	"_id": 388,
+	"estado_id": 9,
+	"municipio_id": 118,
+	"nombre": "Tocópero",
+	"ine_municipio": 25,
+	"ine_parroquia": 1
+}, {
+	"_id": 389,
+	"estado_id": 10,
+	"municipio_id": 119,
+	"nombre": "Valle de La Pascua",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 390,
+	"estado_id": 10,
+	"municipio_id": 119,
+	"nombre": "Espino",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 391,
+	"estado_id": 10,
+	"municipio_id": 120,
+	"nombre": "El Sombrero",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 392,
+	"estado_id": 10,
+	"municipio_id": 120,
+	"nombre": "Sosa",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 393,
+	"estado_id": 10,
+	"municipio_id": 121,
+	"nombre": "Calabozo",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 394,
+	"estado_id": 10,
+	"municipio_id": 121,
+	"nombre": "El Calvario",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 395,
+	"estado_id": 10,
+	"municipio_id": 121,
+	"nombre": "El Rastro",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 396,
+	"estado_id": 10,
+	"municipio_id": 121,
+	"nombre": "Guardatinajas",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 397,
+	"estado_id": 10,
+	"municipio_id": 122,
+	"nombre": "Altagracia de Orituco",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 398,
+	"estado_id": 10,
+	"municipio_id": 122,
+	"nombre": "Lezama",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 399,
+	"estado_id": 10,
+	"municipio_id": 122,
+	"nombre": "Libertad de Orituco",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 400,
+	"estado_id": 10,
+	"municipio_id": 122,
+	"nombre": "San Francisco de Macaira",
+	"ine_municipio": 4,
+	"ine_parroquia": 4
+}, {
+	"_id": 401,
+	"estado_id": 10,
+	"municipio_id": 122,
+	"nombre": "San Rafael de Orituco",
+	"ine_municipio": 4,
+	"ine_parroquia": 5
+}, {
+	"_id": 402,
+	"estado_id": 10,
+	"municipio_id": 122,
+	"nombre": "Soublette",
+	"ine_municipio": 4,
+	"ine_parroquia": 6
+}, {
+	"_id": 403,
+	"estado_id": 10,
+	"municipio_id": 122,
+	"nombre": "Paso Real de Macaira",
+	"ine_municipio": 4,
+	"ine_parroquia": 7
+}, {
+	"_id": 404,
+	"estado_id": 10,
+	"municipio_id": 123,
+	"nombre": "Tucupido",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 405,
+	"estado_id": 10,
+	"municipio_id": 123,
+	"nombre": "San Rafael de Laya",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 406,
+	"estado_id": 10,
+	"municipio_id": 124,
+	"nombre": "San Juan de Los Morros",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 407,
+	"estado_id": 10,
+	"municipio_id": 124,
+	"nombre": "Parapara",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 408,
+	"estado_id": 10,
+	"municipio_id": 124,
+	"nombre": "Cantagallo",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 409,
+	"estado_id": 10,
+	"municipio_id": 125,
+	"nombre": "Zaraza",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 410,
+	"estado_id": 10,
+	"municipio_id": 125,
+	"nombre": "San José de Unare",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 411,
+	"estado_id": 10,
+	"municipio_id": 126,
+	"nombre": "Camaguán",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 412,
+	"estado_id": 10,
+	"municipio_id": 126,
+	"nombre": "Puerto Miranda",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 413,
+	"estado_id": 10,
+	"municipio_id": 126,
+	"nombre": "Uverito",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 414,
+	"estado_id": 10,
+	"municipio_id": 127,
+	"nombre": "San José de Guaribe",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 415,
+	"estado_id": 10,
+	"municipio_id": 128,
+	"nombre": "Las Mercedes",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 416,
+	"estado_id": 10,
+	"municipio_id": 128,
+	"nombre": "Santa Rita de Manapire",
+	"ine_municipio": 10,
+	"ine_parroquia": 2
+}, {
+	"_id": 417,
+	"estado_id": 10,
+	"municipio_id": 128,
+	"nombre": "Cabruta",
+	"ine_municipio": 10,
+	"ine_parroquia": 3
+}, {
+	"_id": 418,
+	"estado_id": 10,
+	"municipio_id": 129,
+	"nombre": "El Socorro",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 419,
+	"estado_id": 10,
+	"municipio_id": 130,
+	"nombre": "Ortiz",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 420,
+	"estado_id": 10,
+	"municipio_id": 130,
+	"nombre": "San Francisco de Tiznados",
+	"ine_municipio": 12,
+	"ine_parroquia": 2
+}, {
+	"_id": 421,
+	"estado_id": 10,
+	"municipio_id": 130,
+	"nombre": "San José de Tiznados",
+	"ine_municipio": 12,
+	"ine_parroquia": 3
+}, {
+	"_id": 422,
+	"estado_id": 10,
+	"municipio_id": 130,
+	"nombre": "San Lorenzo de Tiznados",
+	"ine_municipio": 12,
+	"ine_parroquia": 4
+}, {
+	"_id": 423,
+	"estado_id": 10,
+	"municipio_id": 131,
+	"nombre": "Santa María de Ipire",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 424,
+	"estado_id": 10,
+	"municipio_id": 131,
+	"nombre": "Altamira",
+	"ine_municipio": 13,
+	"ine_parroquia": 2
+}, {
+	"_id": 425,
+	"estado_id": 10,
+	"municipio_id": 132,
+	"nombre": "Chaguaramas",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 426,
+	"estado_id": 10,
+	"municipio_id": 133,
+	"nombre": "Guayabal",
+	"ine_municipio": 15,
+	"ine_parroquia": 1
+}, {
+	"_id": 427,
+	"estado_id": 10,
+	"municipio_id": 133,
+	"nombre": "Cazorla",
+	"ine_municipio": 15,
+	"ine_parroquia": 2
+}, {
+	"_id": 428,
+	"estado_id": 11,
+	"municipio_id": 134,
+	"nombre": "Fréitez",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 429,
+	"estado_id": 11,
+	"municipio_id": 134,
+	"nombre": "José María Blanco",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 430,
+	"estado_id": 11,
+	"municipio_id": 135,
+	"nombre": "Catedral",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 431,
+	"estado_id": 11,
+	"municipio_id": 135,
+	"nombre": "Concepción",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 432,
+	"estado_id": 11,
+	"municipio_id": 135,
+	"nombre": "Santa Rosa",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 433,
+	"estado_id": 11,
+	"municipio_id": 135,
+	"nombre": "Unión",
+	"ine_municipio": 2,
+	"ine_parroquia": 4
+}, {
+	"_id": 434,
+	"estado_id": 11,
+	"municipio_id": 135,
+	"nombre": "El Cují",
+	"ine_municipio": 2,
+	"ine_parroquia": 5
+}, {
+	"_id": 435,
+	"estado_id": 11,
+	"municipio_id": 135,
+	"nombre": "Tamaca",
+	"ine_municipio": 2,
+	"ine_parroquia": 6
+}, {
+	"_id": 436,
+	"estado_id": 11,
+	"municipio_id": 135,
+	"nombre": "Juan de Villegas",
+	"ine_municipio": 2,
+	"ine_parroquia": 7
+}, {
+	"_id": 437,
+	"estado_id": 11,
+	"municipio_id": 135,
+	"nombre": "Aguedo Felipe Alvarado",
+	"ine_municipio": 2,
+	"ine_parroquia": 8
+}, {
+	"_id": 438,
+	"estado_id": 11,
+	"municipio_id": 135,
+	"nombre": "Buena Vista",
+	"ine_municipio": 2,
+	"ine_parroquia": 9
+}, {
+	"_id": 439,
+	"estado_id": 11,
+	"municipio_id": 135,
+	"nombre": "Juárez",
+	"ine_municipio": 2,
+	"ine_parroquia": 10
+}, {
+	"_id": 440,
+	"estado_id": 11,
+	"municipio_id": 136,
+	"nombre": "Juan Bautista Rodríguez",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 441,
+	"estado_id": 11,
+	"municipio_id": 136,
+	"nombre": "Diego de Lozada",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 442,
+	"estado_id": 11,
+	"municipio_id": 136,
+	"nombre": "San Miguel",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 443,
+	"estado_id": 11,
+	"municipio_id": 136,
+	"nombre": "Cuara",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 444,
+	"estado_id": 11,
+	"municipio_id": 136,
+	"nombre": "Paraíso de San José",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 445,
+	"estado_id": 11,
+	"municipio_id": 136,
+	"nombre": "Tintorero",
+	"ine_municipio": 3,
+	"ine_parroquia": 6
+}, {
+	"_id": 446,
+	"estado_id": 11,
+	"municipio_id": 136,
+	"nombre": "José Bernardo Dorante",
+	"ine_municipio": 3,
+	"ine_parroquia": 7
+}, {
+	"_id": 447,
+	"estado_id": 11,
+	"municipio_id": 136,
+	"nombre": "Coronel Mariano Peraza",
+	"ine_municipio": 3,
+	"ine_parroquia": 8
+}, {
+	"_id": 448,
+	"estado_id": 11,
+	"municipio_id": 137,
+	"nombre": "Bolívar",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 449,
+	"estado_id": 11,
+	"municipio_id": 137,
+	"nombre": "Anzoátegui",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 450,
+	"estado_id": 11,
+	"municipio_id": 137,
+	"nombre": "Guarico",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 451,
+	"estado_id": 11,
+	"municipio_id": 137,
+	"nombre": "Humocaro Alto",
+	"ine_municipio": 4,
+	"ine_parroquia": 4
+}, {
+	"_id": 452,
+	"estado_id": 11,
+	"municipio_id": 137,
+	"nombre": "Humocaro Bajo",
+	"ine_municipio": 4,
+	"ine_parroquia": 5
+}, {
+	"_id": 453,
+	"estado_id": 11,
+	"municipio_id": 137,
+	"nombre": "Morán",
+	"ine_municipio": 4,
+	"ine_parroquia": 6
+}, {
+	"_id": 454,
+	"estado_id": 11,
+	"municipio_id": 137,
+	"nombre": "Hilario Luna y Luna",
+	"ine_municipio": 4,
+	"ine_parroquia": 7
+}, {
+	"_id": 455,
+	"estado_id": 11,
+	"municipio_id": 137,
+	"nombre": "La Candelaria",
+	"ine_municipio": 4,
+	"ine_parroquia": 8
+}, {
+	"_id": 456,
+	"estado_id": 11,
+	"municipio_id": 138,
+	"nombre": "Cabudare",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 457,
+	"estado_id": 11,
+	"municipio_id": 138,
+	"nombre": "José Gregorio Bastidas",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 458,
+	"estado_id": 11,
+	"municipio_id": 138,
+	"nombre": "Agua Viva",
+	"ine_municipio": 5,
+	"ine_parroquia": 3
+}, {
+	"_id": 459,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Trinidad Samuel",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 460,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Antonio Díaz",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 461,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Camacaro",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 462,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Castañeda",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 463,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Chiquinquirá",
+	"ine_municipio": 6,
+	"ine_parroquia": 5
+}, {
+	"_id": 464,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Espinoza de los Monteros",
+	"ine_municipio": 6,
+	"ine_parroquia": 6
+}, {
+	"_id": 465,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Lara",
+	"ine_municipio": 6,
+	"ine_parroquia": 7
+}, {
+	"_id": 466,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Manuel Morillo",
+	"ine_municipio": 6,
+	"ine_parroquia": 8
+}, {
+	"_id": 467,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Montes de Oca",
+	"ine_municipio": 6,
+	"ine_parroquia": 9
+}, {
+	"_id": 468,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Torres",
+	"ine_municipio": 6,
+	"ine_parroquia": 10
+}, {
+	"_id": 469,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "El Blanco",
+	"ine_municipio": 6,
+	"ine_parroquia": 11
+}, {
+	"_id": 470,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Montaña Verde",
+	"ine_municipio": 6,
+	"ine_parroquia": 12
+}, {
+	"_id": 471,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Las Mercedes",
+	"ine_municipio": 6,
+	"ine_parroquia": 14
+}, {
+	"_id": 472,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Heriberto Arroyo",
+	"ine_municipio": 6,
+	"ine_parroquia": 13
+}, {
+	"_id": 473,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Reyes Vargas",
+	"ine_municipio": 6,
+	"ine_parroquia": 16
+}, {
+	"_id": 474,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Altagracia",
+	"ine_municipio": 6,
+	"ine_parroquia": 17
+}, {
+	"_id": 475,
+	"estado_id": 11,
+	"municipio_id": 139,
+	"nombre": "Cecilio Zubillaga",
+	"ine_municipio": 6,
+	"ine_parroquia": 15
+}, {
+	"_id": 476,
+	"estado_id": 11,
+	"municipio_id": 140,
+	"nombre": "Siquisique",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 477,
+	"estado_id": 11,
+	"municipio_id": 140,
+	"nombre": "San Miguel",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 478,
+	"estado_id": 11,
+	"municipio_id": 140,
+	"nombre": "Xaguas",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 479,
+	"estado_id": 11,
+	"municipio_id": 140,
+	"nombre": "Moroturo",
+	"ine_municipio": 7,
+	"ine_parroquia": 4
+}, {
+	"_id": 480,
+	"estado_id": 11,
+	"municipio_id": 141,
+	"nombre": "Pío Tamayo",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 481,
+	"estado_id": 11,
+	"municipio_id": 141,
+	"nombre": "Yacambú",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 482,
+	"estado_id": 11,
+	"municipio_id": 141,
+	"nombre": "Quebrada Honda de Guache",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 483,
+	"estado_id": 11,
+	"municipio_id": 142,
+	"nombre": "Sarare",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 484,
+	"estado_id": 11,
+	"municipio_id": 142,
+	"nombre": "Gustavo Vegas León",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 485,
+	"estado_id": 11,
+	"municipio_id": 142,
+	"nombre": "Buría",
+	"ine_municipio": 9,
+	"ine_parroquia": 3
+}, {
+	"_id": 486,
+	"estado_id": 12,
+	"municipio_id": 143,
+	"nombre": "Gabriel Picón González",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 487,
+	"estado_id": 12,
+	"municipio_id": 143,
+	"nombre": "Héctor Amable Mora",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 488,
+	"estado_id": 12,
+	"municipio_id": 143,
+	"nombre": "José Nucete Sardi",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 489,
+	"estado_id": 12,
+	"municipio_id": 143,
+	"nombre": "Pulido Méndez",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 490,
+	"estado_id": 12,
+	"municipio_id": 143,
+	"nombre": "Presidente Rómulo Gallegos",
+	"ine_municipio": 1,
+	"ine_parroquia": 5
+}, {
+	"_id": 491,
+	"estado_id": 12,
+	"municipio_id": 143,
+	"nombre": "Presidente Betancourt",
+	"ine_municipio": 1,
+	"ine_parroquia": 6
+}, {
+	"_id": 492,
+	"estado_id": 12,
+	"municipio_id": 143,
+	"nombre": "Presidente Páez",
+	"ine_municipio": 1,
+	"ine_parroquia": 7
+}, {
+	"_id": 493,
+	"estado_id": 12,
+	"municipio_id": 144,
+	"nombre": "La Azulita ",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 494,
+	"estado_id": 12,
+	"municipio_id": 145,
+	"nombre": "Canaguá",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 495,
+	"estado_id": 12,
+	"municipio_id": 145,
+	"nombre": "Capurí",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 496,
+	"estado_id": 12,
+	"municipio_id": 145,
+	"nombre": "Chacantá",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 497,
+	"estado_id": 12,
+	"municipio_id": 145,
+	"nombre": "El Molino",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 498,
+	"estado_id": 12,
+	"municipio_id": 145,
+	"nombre": "Guaimaral",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 499,
+	"estado_id": 12,
+	"municipio_id": 145,
+	"nombre": "Mucutuy",
+	"ine_municipio": 3,
+	"ine_parroquia": 6
+}, {
+	"_id": 500,
+	"estado_id": 12,
+	"municipio_id": 145,
+	"nombre": "Mucuchachí",
+	"ine_municipio": 3,
+	"ine_parroquia": 7
+}, {
+	"_id": 501,
+	"estado_id": 12,
+	"municipio_id": 146,
+	"nombre": "Acequias",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 502,
+	"estado_id": 12,
+	"municipio_id": 146,
+	"nombre": "Jají",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 503,
+	"estado_id": 12,
+	"municipio_id": 146,
+	"nombre": "La Mesa",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 504,
+	"estado_id": 12,
+	"municipio_id": 146,
+	"nombre": "San José del Sur",
+	"ine_municipio": 4,
+	"ine_parroquia": 4
+}, {
+	"_id": 505,
+	"estado_id": 12,
+	"municipio_id": 146,
+	"nombre": "Montalbán",
+	"ine_municipio": 4,
+	"ine_parroquia": 5
+}, {
+	"_id": 506,
+	"estado_id": 12,
+	"municipio_id": 146,
+	"nombre": "Matriz",
+	"ine_municipio": 4,
+	"ine_parroquia": 6
+}, {
+	"_id": 507,
+	"estado_id": 12,
+	"municipio_id": 146,
+	"nombre": "Fernández Peña",
+	"ine_municipio": 4,
+	"ine_parroquia": 7
+}, {
+	"_id": 508,
+	"estado_id": 12,
+	"municipio_id": 147,
+	"nombre": "Guaraque",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 509,
+	"estado_id": 12,
+	"municipio_id": 147,
+	"nombre": "Mesa de Quintero",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 510,
+	"estado_id": 12,
+	"municipio_id": 147,
+	"nombre": "Río Negro",
+	"ine_municipio": 5,
+	"ine_parroquia": 3
+}, {
+	"_id": 511,
+	"estado_id": 12,
+	"municipio_id": 148,
+	"nombre": "Arapuey",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 512,
+	"estado_id": 12,
+	"municipio_id": 148,
+	"nombre": "Palmira",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 513,
+	"estado_id": 12,
+	"municipio_id": 149,
+	"nombre": "Torondoy ",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 514,
+	"estado_id": 12,
+	"municipio_id": 149,
+	"nombre": "San Cristóbal de Torondoy",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 515,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Arias",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 516,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Sagrario",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 517,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Milla",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 518,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "El Llano",
+	"ine_municipio": 8,
+	"ine_parroquia": 4
+}, {
+	"_id": 519,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Juan Rodríguez Suárez",
+	"ine_municipio": 8,
+	"ine_parroquia": 5
+}, {
+	"_id": 520,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Jacinto Plaza",
+	"ine_municipio": 8,
+	"ine_parroquia": 6
+}, {
+	"_id": 521,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Domingo Peña",
+	"ine_municipio": 8,
+	"ine_parroquia": 7
+}, {
+	"_id": 522,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Osuna Rodríguez",
+	"ine_municipio": 8,
+	"ine_parroquia": 9
+}, {
+	"_id": 523,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Gonzalo Picón Febres",
+	"ine_municipio": 8,
+	"ine_parroquia": 8
+}, {
+	"_id": 524,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Lasso de la Vega",
+	"ine_municipio": 8,
+	"ine_parroquia": 10
+}, {
+	"_id": 525,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Caracciolo Parra Pérez",
+	"ine_municipio": 8,
+	"ine_parroquia": 11
+}, {
+	"_id": 526,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Antonio Spinetti Dini",
+	"ine_municipio": 8,
+	"ine_parroquia": 13
+}, {
+	"_id": 527,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Mariano Picón Salas",
+	"ine_municipio": 8,
+	"ine_parroquia": 12
+}, {
+	"_id": 528,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "El Morro",
+	"ine_municipio": 8,
+	"ine_parroquia": 14
+}, {
+	"_id": 529,
+	"estado_id": 12,
+	"municipio_id": 150,
+	"nombre": "Los Nevados",
+	"ine_municipio": 8,
+	"ine_parroquia": 15
+}, {
+	"_id": 530,
+	"estado_id": 12,
+	"municipio_id": 151,
+	"nombre": "Tabay",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 531,
+	"estado_id": 12,
+	"municipio_id": 152,
+	"nombre": "Timotes",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 532,
+	"estado_id": 12,
+	"municipio_id": 152,
+	"nombre": "Andrés Eloy Blanco",
+	"ine_municipio": 10,
+	"ine_parroquia": 2
+}, {
+	"_id": 533,
+	"estado_id": 12,
+	"municipio_id": 152,
+	"nombre": "Piñango",
+	"ine_municipio": 10,
+	"ine_parroquia": 3
+}, {
+	"_id": 534,
+	"estado_id": 12,
+	"municipio_id": 152,
+	"nombre": "La Venta",
+	"ine_municipio": 10,
+	"ine_parroquia": 4
+}, {
+	"_id": 535,
+	"estado_id": 12,
+	"municipio_id": 153,
+	"nombre": "Santa Cruz de Mora",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 536,
+	"estado_id": 12,
+	"municipio_id": 153,
+	"nombre": "Mesa Bolívar",
+	"ine_municipio": 11,
+	"ine_parroquia": 2
+}, {
+	"_id": 537,
+	"estado_id": 12,
+	"municipio_id": 153,
+	"nombre": "Mesa de Las Palmas",
+	"ine_municipio": 11,
+	"ine_parroquia": 3
+}, {
+	"_id": 538,
+	"estado_id": 12,
+	"municipio_id": 154,
+	"nombre": "Santa Elena de Arenales",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 539,
+	"estado_id": 12,
+	"municipio_id": 154,
+	"nombre": "Eloy Paredes",
+	"ine_municipio": 12,
+	"ine_parroquia": 2
+}, {
+	"_id": 540,
+	"estado_id": 12,
+	"municipio_id": 154,
+	"nombre": "San Rafael de Alcázar",
+	"ine_municipio": 12,
+	"ine_parroquia": 3
+}, {
+	"_id": 541,
+	"estado_id": 12,
+	"municipio_id": 155,
+	"nombre": "Tucaní ",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 542,
+	"estado_id": 12,
+	"municipio_id": 155,
+	"nombre": "Florencio Ramírez",
+	"ine_municipio": 13,
+	"ine_parroquia": 2
+}, {
+	"_id": 543,
+	"estado_id": 12,
+	"municipio_id": 156,
+	"nombre": "Santo Domingo",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 544,
+	"estado_id": 12,
+	"municipio_id": 156,
+	"nombre": "Las Piedras",
+	"ine_municipio": 14,
+	"ine_parroquia": 2
+}, {
+	"_id": 545,
+	"estado_id": 12,
+	"municipio_id": 157,
+	"nombre": "Pueblo Llano",
+	"ine_municipio": 15,
+	"ine_parroquia": 1
+}, {
+	"_id": 546,
+	"estado_id": 12,
+	"municipio_id": 158,
+	"nombre": "Mucuchíes",
+	"ine_municipio": 16,
+	"ine_parroquia": 1
+}, {
+	"_id": 547,
+	"estado_id": 12,
+	"municipio_id": 158,
+	"nombre": "Mucurubá",
+	"ine_municipio": 16,
+	"ine_parroquia": 2
+}, {
+	"_id": 548,
+	"estado_id": 12,
+	"municipio_id": 158,
+	"nombre": "San Rafael",
+	"ine_municipio": 16,
+	"ine_parroquia": 3
+}, {
+	"_id": 549,
+	"estado_id": 12,
+	"municipio_id": 158,
+	"nombre": "Cacute",
+	"ine_municipio": 16,
+	"ine_parroquia": 4
+}, {
+	"_id": 550,
+	"estado_id": 12,
+	"municipio_id": 158,
+	"nombre": "La Toma",
+	"ine_municipio": 16,
+	"ine_parroquia": 5
+}, {
+	"_id": 551,
+	"estado_id": 12,
+	"municipio_id": 159,
+	"nombre": "Bailadores",
+	"ine_municipio": 17,
+	"ine_parroquia": 1
+}, {
+	"_id": 552,
+	"estado_id": 12,
+	"municipio_id": 159,
+	"nombre": "Gerónimo Maldonado",
+	"ine_municipio": 17,
+	"ine_parroquia": 2
+}, {
+	"_id": 553,
+	"estado_id": 12,
+	"municipio_id": 160,
+	"nombre": "Lagunillas",
+	"ine_municipio": 18,
+	"ine_parroquia": 1
+}, {
+	"_id": 554,
+	"estado_id": 12,
+	"municipio_id": 160,
+	"nombre": "Chiguará",
+	"ine_municipio": 18,
+	"ine_parroquia": 2
+}, {
+	"_id": 555,
+	"estado_id": 12,
+	"municipio_id": 160,
+	"nombre": "Estanques",
+	"ine_municipio": 18,
+	"ine_parroquia": 3
+}, {
+	"_id": 556,
+	"estado_id": 12,
+	"municipio_id": 160,
+	"nombre": "San Juan",
+	"ine_municipio": 18,
+	"ine_parroquia": 4
+}, {
+	"_id": 557,
+	"estado_id": 12,
+	"municipio_id": 160,
+	"nombre": "Pueblo Nuevo del Sur",
+	"ine_municipio": 18,
+	"ine_parroquia": 5
+}, {
+	"_id": 558,
+	"estado_id": 12,
+	"municipio_id": 160,
+	"nombre": "La Trampa",
+	"ine_municipio": 18,
+	"ine_parroquia": 6
+}, {
+	"_id": 559,
+	"estado_id": 12,
+	"municipio_id": 161,
+	"nombre": "El Llano",
+	"ine_municipio": 19,
+	"ine_parroquia": 1
+}, {
+	"_id": 560,
+	"estado_id": 12,
+	"municipio_id": 161,
+	"nombre": "Tovar",
+	"ine_municipio": 19,
+	"ine_parroquia": 2
+}, {
+	"_id": 561,
+	"estado_id": 12,
+	"municipio_id": 161,
+	"nombre": "El Amparo",
+	"ine_municipio": 19,
+	"ine_parroquia": 3
+}, {
+	"_id": 562,
+	"estado_id": 12,
+	"municipio_id": 161,
+	"nombre": "San Francisco",
+	"ine_municipio": 19,
+	"ine_parroquia": 4
+}, {
+	"_id": 563,
+	"estado_id": 12,
+	"municipio_id": 162,
+	"nombre": "Nueva Bolivia ",
+	"ine_municipio": 20,
+	"ine_parroquia": 1
+}, {
+	"_id": 564,
+	"estado_id": 12,
+	"municipio_id": 162,
+	"nombre": "Independencia",
+	"ine_municipio": 20,
+	"ine_parroquia": 2
+}, {
+	"_id": 565,
+	"estado_id": 12,
+	"municipio_id": 162,
+	"nombre": "María de la Concepción Palacios Blanco",
+	"ine_municipio": 20,
+	"ine_parroquia": 3
+}, {
+	"_id": 566,
+	"estado_id": 12,
+	"municipio_id": 162,
+	"nombre": "Santa Apolonia",
+	"ine_municipio": 20,
+	"ine_parroquia": 4
+}, {
+	"_id": 567,
+	"estado_id": 12,
+	"municipio_id": 163,
+	"nombre": "Santa María de Caparo",
+	"ine_municipio": 21,
+	"ine_parroquia": 1
+}, {
+	"_id": 568,
+	"estado_id": 12,
+	"municipio_id": 164,
+	"nombre": "Aricagua",
+	"ine_municipio": 22,
+	"ine_parroquia": 1
+}, {
+	"_id": 569,
+	"estado_id": 12,
+	"municipio_id": 164,
+	"nombre": "San Antonio",
+	"ine_municipio": 22,
+	"ine_parroquia": 2
+}, {
+	"_id": 570,
+	"estado_id": 12,
+	"municipio_id": 165,
+	"nombre": "Zea",
+	"ine_municipio": 23,
+	"ine_parroquia": 1
+}, {
+	"_id": 571,
+	"estado_id": 12,
+	"municipio_id": 165,
+	"nombre": "Caño El Tigre",
+	"ine_municipio": 23,
+	"ine_parroquia": 2
+}, {
+	"_id": 572,
+	"estado_id": 13,
+	"municipio_id": 166,
+	"nombre": "Caucagua",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 573,
+	"estado_id": 13,
+	"municipio_id": 166,
+	"nombre": "Aragüita",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 574,
+	"estado_id": 13,
+	"municipio_id": 166,
+	"nombre": "Arévalo González",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 575,
+	"estado_id": 13,
+	"municipio_id": 166,
+	"nombre": "Capaya",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 576,
+	"estado_id": 13,
+	"municipio_id": 166,
+	"nombre": "Panaquire",
+	"ine_municipio": 1,
+	"ine_parroquia": 5
+}, {
+	"_id": 577,
+	"estado_id": 13,
+	"municipio_id": 166,
+	"nombre": "Ribas",
+	"ine_municipio": 1,
+	"ine_parroquia": 6
+}, {
+	"_id": 578,
+	"estado_id": 13,
+	"municipio_id": 166,
+	"nombre": "El Café",
+	"ine_municipio": 1,
+	"ine_parroquia": 7
+}, {
+	"_id": 579,
+	"estado_id": 13,
+	"municipio_id": 166,
+	"nombre": "Marizapa",
+	"ine_municipio": 1,
+	"ine_parroquia": 8
+}, {
+	"_id": 580,
+	"estado_id": 13,
+	"municipio_id": 167,
+	"nombre": "Los Teques",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 581,
+	"estado_id": 13,
+	"municipio_id": 167,
+	"nombre": "Cecilio Acosta",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 582,
+	"estado_id": 13,
+	"municipio_id": 167,
+	"nombre": "Paracotos",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 583,
+	"estado_id": 13,
+	"municipio_id": 167,
+	"nombre": "San Pedro",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 584,
+	"estado_id": 13,
+	"municipio_id": 167,
+	"nombre": "Tácata",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 585,
+	"estado_id": 13,
+	"municipio_id": 167,
+	"nombre": "Altagracia de La Montaña",
+	"ine_municipio": 3,
+	"ine_parroquia": 7
+}, {
+	"_id": 586,
+	"estado_id": 13,
+	"municipio_id": 167,
+	"nombre": "El Jarillo",
+	"ine_municipio": 3,
+	"ine_parroquia": 6
+}, {
+	"_id": 587,
+	"estado_id": 13,
+	"municipio_id": 168,
+	"nombre": "Higuerote",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 588,
+	"estado_id": 13,
+	"municipio_id": 168,
+	"nombre": "Curiepe",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 589,
+	"estado_id": 13,
+	"municipio_id": 168,
+	"nombre": "Tacarigua",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 590,
+	"estado_id": 13,
+	"municipio_id": 169,
+	"nombre": "Santa Teresa del Tuy",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 591,
+	"estado_id": 13,
+	"municipio_id": 169,
+	"nombre": "El Cartanal",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 592,
+	"estado_id": 13,
+	"municipio_id": 170,
+	"nombre": "Ocumare del Tuy",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 593,
+	"estado_id": 13,
+	"municipio_id": 170,
+	"nombre": "La Democracia",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 594,
+	"estado_id": 13,
+	"municipio_id": 170,
+	"nombre": "Santa Bárbara",
+	"ine_municipio": 5,
+	"ine_parroquia": 3
+}, {
+	"_id": 595,
+	"estado_id": 13,
+	"municipio_id": 171,
+	"nombre": "Río Chico",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 596,
+	"estado_id": 13,
+	"municipio_id": 171,
+	"nombre": "El Guapo",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 597,
+	"estado_id": 13,
+	"municipio_id": 171,
+	"nombre": "Tacarigua de La Laguna",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 598,
+	"estado_id": 13,
+	"municipio_id": 171,
+	"nombre": "Paparo",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 599,
+	"estado_id": 13,
+	"municipio_id": 171,
+	"nombre": "San Fernando del Guapo",
+	"ine_municipio": 6,
+	"ine_parroquia": 5
+}, {
+	"_id": 600,
+	"estado_id": 13,
+	"municipio_id": 172,
+	"nombre": "Santa Lucía",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 601,
+	"estado_id": 13,
+	"municipio_id": 173,
+	"nombre": "Guarenas",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 602,
+	"estado_id": 13,
+	"municipio_id": 174,
+	"nombre": "Petare",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 603,
+	"estado_id": 13,
+	"municipio_id": 174,
+	"nombre": "Leoncio Martínez",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 604,
+	"estado_id": 13,
+	"municipio_id": 174,
+	"nombre": "Caucagüita",
+	"ine_municipio": 9,
+	"ine_parroquia": 3
+}, {
+	"_id": 605,
+	"estado_id": 13,
+	"municipio_id": 174,
+	"nombre": "Fila de Mariches",
+	"ine_municipio": 9,
+	"ine_parroquia": 4
+}, {
+	"_id": 606,
+	"estado_id": 13,
+	"municipio_id": 174,
+	"nombre": "La Dolorita",
+	"ine_municipio": 9,
+	"ine_parroquia": 5
+}, {
+	"_id": 607,
+	"estado_id": 13,
+	"municipio_id": 175,
+	"nombre": "Cúa",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 608,
+	"estado_id": 13,
+	"municipio_id": 175,
+	"nombre": "Nueva Cúa",
+	"ine_municipio": 10,
+	"ine_parroquia": 2
+}, {
+	"_id": 609,
+	"estado_id": 13,
+	"municipio_id": 176,
+	"nombre": "Guatire",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 610,
+	"estado_id": 13,
+	"municipio_id": 176,
+	"nombre": "Bolívar",
+	"ine_municipio": 11,
+	"ine_parroquia": 2
+}, {
+	"_id": 611,
+	"estado_id": 13,
+	"municipio_id": 177,
+	"nombre": "Charallave",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 612,
+	"estado_id": 13,
+	"municipio_id": 177,
+	"nombre": "Las Brisas",
+	"ine_municipio": 12,
+	"ine_parroquia": 2
+}, {
+	"_id": 613,
+	"estado_id": 13,
+	"municipio_id": 178,
+	"nombre": "San Antonio de Los Altos",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 614,
+	"estado_id": 13,
+	"municipio_id": 179,
+	"nombre": "San José de Barlovento",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 615,
+	"estado_id": 13,
+	"municipio_id": 179,
+	"nombre": "Cumbo",
+	"ine_municipio": 14,
+	"ine_parroquia": 2
+}, {
+	"_id": 616,
+	"estado_id": 13,
+	"municipio_id": 180,
+	"nombre": "San Francisco de Yare",
+	"ine_municipio": 15,
+	"ine_parroquia": 1
+}, {
+	"_id": 617,
+	"estado_id": 13,
+	"municipio_id": 180,
+	"nombre": "San Antonio de Yare",
+	"ine_municipio": 15,
+	"ine_parroquia": 2
+}, {
+	"_id": 618,
+	"estado_id": 13,
+	"municipio_id": 181,
+	"nombre": "Baruta",
+	"ine_municipio": 16,
+	"ine_parroquia": 1
+}, {
+	"_id": 619,
+	"estado_id": 13,
+	"municipio_id": 181,
+	"nombre": "El Cafetal",
+	"ine_municipio": 16,
+	"ine_parroquia": 2
+}, {
+	"_id": 620,
+	"estado_id": 13,
+	"municipio_id": 181,
+	"nombre": "Las Minas de Baruta",
+	"ine_municipio": 16,
+	"ine_parroquia": 3
+}, {
+	"_id": 621,
+	"estado_id": 13,
+	"municipio_id": 182,
+	"nombre": "Carrizal",
+	"ine_municipio": 17,
+	"ine_parroquia": 1
+}, {
+	"_id": 622,
+	"estado_id": 13,
+	"municipio_id": 183,
+	"nombre": "Chacao",
+	"ine_municipio": 18,
+	"ine_parroquia": 1
+}, {
+	"_id": 623,
+	"estado_id": 13,
+	"municipio_id": 184,
+	"nombre": "El Hatillo",
+	"ine_municipio": 19,
+	"ine_parroquia": 1
+}, {
+	"_id": 624,
+	"estado_id": 13,
+	"municipio_id": 185,
+	"nombre": "Mamporal",
+	"ine_municipio": 20,
+	"ine_parroquia": 1
+}, {
+	"_id": 625,
+	"estado_id": 13,
+	"municipio_id": 186,
+	"nombre": "Cúpira",
+	"ine_municipio": 21,
+	"ine_parroquia": 1
+}, {
+	"_id": 626,
+	"estado_id": 13,
+	"municipio_id": 186,
+	"nombre": "Machurucuto",
+	"ine_municipio": 21,
+	"ine_parroquia": 2
+}, {
+	"_id": 627,
+	"estado_id": 14,
+	"municipio_id": 187,
+	"nombre": "San Antonio",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 628,
+	"estado_id": 14,
+	"municipio_id": 187,
+	"nombre": "San Francisco",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 629,
+	"estado_id": 14,
+	"municipio_id": 188,
+	"nombre": "Caripe",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 630,
+	"estado_id": 14,
+	"municipio_id": 188,
+	"nombre": "Teresén",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 631,
+	"estado_id": 14,
+	"municipio_id": 188,
+	"nombre": "El Guácharo",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 632,
+	"estado_id": 14,
+	"municipio_id": 188,
+	"nombre": "San Agustín",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 633,
+	"estado_id": 14,
+	"municipio_id": 188,
+	"nombre": "La Guanota",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 634,
+	"estado_id": 14,
+	"municipio_id": 188,
+	"nombre": "Sabana de Piedra",
+	"ine_municipio": 3,
+	"ine_parroquia": 6
+}, {
+	"_id": 635,
+	"estado_id": 14,
+	"municipio_id": 189,
+	"nombre": "Caripito",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 636,
+	"estado_id": 14,
+	"municipio_id": 190,
+	"nombre": "Caicara",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 637,
+	"estado_id": 14,
+	"municipio_id": 190,
+	"nombre": "Areo",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 638,
+	"estado_id": 14,
+	"municipio_id": 190,
+	"nombre": "San Félix",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 639,
+	"estado_id": 14,
+	"municipio_id": 190,
+	"nombre": "Viento Fresco",
+	"ine_municipio": 4,
+	"ine_parroquia": 4
+}, {
+	"_id": 640,
+	"estado_id": 14,
+	"municipio_id": 191,
+	"nombre": "Punta de Mata",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 641,
+	"estado_id": 14,
+	"municipio_id": 191,
+	"nombre": "El Tejero",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 642,
+	"estado_id": 14,
+	"municipio_id": 192,
+	"nombre": "Temblador ",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 643,
+	"estado_id": 14,
+	"municipio_id": 192,
+	"nombre": "Tabasca",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 644,
+	"estado_id": 14,
+	"municipio_id": 192,
+	"nombre": "Las Alhuacas",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 645,
+	"estado_id": 14,
+	"municipio_id": 192,
+	"nombre": "Chaguaramas",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 646,
+	"estado_id": 14,
+	"municipio_id": 193,
+	"nombre": "El Furrial",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 647,
+	"estado_id": 14,
+	"municipio_id": 193,
+	"nombre": "Jusepín",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 648,
+	"estado_id": 14,
+	"municipio_id": 193,
+	"nombre": "El Corozo",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 649,
+	"estado_id": 14,
+	"municipio_id": 193,
+	"nombre": "San Vicente",
+	"ine_municipio": 7,
+	"ine_parroquia": 4
+}, {
+	"_id": 650,
+	"estado_id": 14,
+	"municipio_id": 193,
+	"nombre": "La Pica",
+	"ine_municipio": 7,
+	"ine_parroquia": 5
+}, {
+	"_id": 651,
+	"estado_id": 14,
+	"municipio_id": 193,
+	"nombre": "Alto de los Godos",
+	"ine_municipio": 7,
+	"ine_parroquia": 6
+}, {
+	"_id": 652,
+	"estado_id": 14,
+	"municipio_id": 193,
+	"nombre": "Boquerón",
+	"ine_municipio": 7,
+	"ine_parroquia": 7
+}, {
+	"_id": 653,
+	"estado_id": 14,
+	"municipio_id": 193,
+	"nombre": "Las Cocuizas",
+	"ine_municipio": 7,
+	"ine_parroquia": 8
+}, {
+	"_id": 654,
+	"estado_id": 14,
+	"municipio_id": 193,
+	"nombre": "Santa Cruz",
+	"ine_municipio": 7,
+	"ine_parroquia": 9
+}, {
+	"_id": 655,
+	"estado_id": 14,
+	"municipio_id": 193,
+	"nombre": "San Simón",
+	"ine_municipio": 7,
+	"ine_parroquia": 10
+}, {
+	"_id": 656,
+	"estado_id": 14,
+	"municipio_id": 194,
+	"nombre": "Aragua",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 657,
+	"estado_id": 14,
+	"municipio_id": 194,
+	"nombre": "Chaguaramal",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 658,
+	"estado_id": 14,
+	"municipio_id": 194,
+	"nombre": "Guanaguana",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 659,
+	"estado_id": 14,
+	"municipio_id": 194,
+	"nombre": "Aparicio",
+	"ine_municipio": 8,
+	"ine_parroquia": 4
+}, {
+	"_id": 660,
+	"estado_id": 14,
+	"municipio_id": 194,
+	"nombre": "Taguaya",
+	"ine_municipio": 8,
+	"ine_parroquia": 5
+}, {
+	"_id": 661,
+	"estado_id": 14,
+	"municipio_id": 194,
+	"nombre": "El Pinto",
+	"ine_municipio": 8,
+	"ine_parroquia": 6
+}, {
+	"_id": 662,
+	"estado_id": 14,
+	"municipio_id": 194,
+	"nombre": "La Toscana",
+	"ine_municipio": 8,
+	"ine_parroquia": 7
+}, {
+	"_id": 663,
+	"estado_id": 14,
+	"municipio_id": 195,
+	"nombre": "Quiriquire",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 664,
+	"estado_id": 14,
+	"municipio_id": 195,
+	"nombre": "Cachipo",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 665,
+	"estado_id": 14,
+	"municipio_id": 196,
+	"nombre": "Barrancas",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 666,
+	"estado_id": 14,
+	"municipio_id": 196,
+	"nombre": "Los Barrancos de Fajardo",
+	"ine_municipio": 10,
+	"ine_parroquia": 2
+}, {
+	"_id": 667,
+	"estado_id": 14,
+	"municipio_id": 197,
+	"nombre": "Aguasay",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 668,
+	"estado_id": 14,
+	"municipio_id": 198,
+	"nombre": "Santa Bárbara",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 669,
+	"estado_id": 14,
+	"municipio_id": 199,
+	"nombre": "Uracoa",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 670,
+	"estado_id": 15,
+	"municipio_id": 200,
+	"nombre": "La Asunción",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 671,
+	"estado_id": 15,
+	"municipio_id": 201,
+	"nombre": "San Juan Bautista",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 672,
+	"estado_id": 15,
+	"municipio_id": 201,
+	"nombre": "Zabala",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 673,
+	"estado_id": 15,
+	"municipio_id": 202,
+	"nombre": "Santa Ana",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 674,
+	"estado_id": 15,
+	"municipio_id": 202,
+	"nombre": "Guevara",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 675,
+	"estado_id": 15,
+	"municipio_id": 202,
+	"nombre": "Matasiete",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 676,
+	"estado_id": 15,
+	"municipio_id": 202,
+	"nombre": "Bolívar",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 677,
+	"estado_id": 15,
+	"municipio_id": 202,
+	"nombre": "Sucre",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 678,
+	"estado_id": 15,
+	"municipio_id": 203,
+	"nombre": "Pampatar",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 679,
+	"estado_id": 15,
+	"municipio_id": 203,
+	"nombre": "Aguirre",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 680,
+	"estado_id": 15,
+	"municipio_id": 204,
+	"nombre": "Juan Griego",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 681,
+	"estado_id": 15,
+	"municipio_id": 204,
+	"nombre": "Adrián",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 682,
+	"estado_id": 15,
+	"municipio_id": 205,
+	"nombre": "Porlamar",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 683,
+	"estado_id": 15,
+	"municipio_id": 206,
+	"nombre": "Boca del Río",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 684,
+	"estado_id": 15,
+	"municipio_id": 206,
+	"nombre": "San Francisco",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 685,
+	"estado_id": 15,
+	"municipio_id": 207,
+	"nombre": "San Pedro de Coche",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 686,
+	"estado_id": 15,
+	"municipio_id": 207,
+	"nombre": "Vicente Fuentes",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 687,
+	"estado_id": 15,
+	"municipio_id": 208,
+	"nombre": "Punta de Piedras",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 688,
+	"estado_id": 15,
+	"municipio_id": 208,
+	"nombre": "Los Barales",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 689,
+	"estado_id": 15,
+	"municipio_id": 209,
+	"nombre": "La Plaza de Paraguachí",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 690,
+	"estado_id": 15,
+	"municipio_id": 210,
+	"nombre": "El Valle del Espíritu Santo",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 691,
+	"estado_id": 15,
+	"municipio_id": 210,
+	"nombre": "Francisco Fajardo",
+	"ine_municipio": 11,
+	"ine_parroquia": 2
+}, {
+	"_id": 692,
+	"estado_id": 16,
+	"municipio_id": 211,
+	"nombre": "Araure",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 693,
+	"estado_id": 16,
+	"municipio_id": 211,
+	"nombre": "Río Acarigua",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 694,
+	"estado_id": 16,
+	"municipio_id": 212,
+	"nombre": "Píritu",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 695,
+	"estado_id": 16,
+	"municipio_id": 212,
+	"nombre": "Uveral",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 696,
+	"estado_id": 16,
+	"municipio_id": 213,
+	"nombre": "Guanare",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 697,
+	"estado_id": 16,
+	"municipio_id": 213,
+	"nombre": "Córdoba",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 698,
+	"estado_id": 16,
+	"municipio_id": 213,
+	"nombre": "San Juan de Guanaguanare",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 699,
+	"estado_id": 16,
+	"municipio_id": 213,
+	"nombre": "Virgen de la Coromoto",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 700,
+	"estado_id": 16,
+	"municipio_id": 213,
+	"nombre": "San José de la Montaña",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 701,
+	"estado_id": 16,
+	"municipio_id": 214,
+	"nombre": "Guanarito",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 702,
+	"estado_id": 16,
+	"municipio_id": 214,
+	"nombre": "Trinidad de la Capilla",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 703,
+	"estado_id": 16,
+	"municipio_id": 214,
+	"nombre": "Divina Pastora",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 704,
+	"estado_id": 16,
+	"municipio_id": 215,
+	"nombre": "Ospino",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 705,
+	"estado_id": 16,
+	"municipio_id": 215,
+	"nombre": "Aparición",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 706,
+	"estado_id": 16,
+	"municipio_id": 215,
+	"nombre": "La Estación",
+	"ine_municipio": 5,
+	"ine_parroquia": 3
+}, {
+	"_id": 707,
+	"estado_id": 16,
+	"municipio_id": 216,
+	"nombre": "Acarigua",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 708,
+	"estado_id": 16,
+	"municipio_id": 216,
+	"nombre": "Payara",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 709,
+	"estado_id": 16,
+	"municipio_id": 216,
+	"nombre": "Pimpinela",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 710,
+	"estado_id": 16,
+	"municipio_id": 216,
+	"nombre": "Ramón Peraza",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 711,
+	"estado_id": 16,
+	"municipio_id": 217,
+	"nombre": "Biscucuy ",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 712,
+	"estado_id": 16,
+	"municipio_id": 217,
+	"nombre": "Concepción",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 713,
+	"estado_id": 16,
+	"municipio_id": 217,
+	"nombre": "San Rafael de Palo Alzado",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 714,
+	"estado_id": 16,
+	"municipio_id": 217,
+	"nombre": "Uvencio Antonio Velásquez",
+	"ine_municipio": 7,
+	"ine_parroquia": 4
+}, {
+	"_id": 715,
+	"estado_id": 16,
+	"municipio_id": 217,
+	"nombre": "San José de Saguaz",
+	"ine_municipio": 7,
+	"ine_parroquia": 5
+}, {
+	"_id": 716,
+	"estado_id": 16,
+	"municipio_id": 217,
+	"nombre": "Villa Rosa",
+	"ine_municipio": 7,
+	"ine_parroquia": 6
+}, {
+	"_id": 717,
+	"estado_id": 16,
+	"municipio_id": 218,
+	"nombre": "Villa Bruzual",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 718,
+	"estado_id": 16,
+	"municipio_id": 218,
+	"nombre": "Canelones",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 719,
+	"estado_id": 16,
+	"municipio_id": 218,
+	"nombre": "Santa Cruz",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 720,
+	"estado_id": 16,
+	"municipio_id": 218,
+	"nombre": "San Isidro Labrador",
+	"ine_municipio": 8,
+	"ine_parroquia": 4
+}, {
+	"_id": 721,
+	"estado_id": 16,
+	"municipio_id": 219,
+	"nombre": "Paraíso de Chabasquén ",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 722,
+	"estado_id": 16,
+	"municipio_id": 219,
+	"nombre": "Peña Blanca",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 723,
+	"estado_id": 16,
+	"municipio_id": 220,
+	"nombre": "Agua Blanca",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 724,
+	"estado_id": 16,
+	"municipio_id": 221,
+	"nombre": "Papelón",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 725,
+	"estado_id": 16,
+	"municipio_id": 221,
+	"nombre": "Caño Delgadito",
+	"ine_municipio": 11,
+	"ine_parroquia": 2
+}, {
+	"_id": 726,
+	"estado_id": 16,
+	"municipio_id": 222,
+	"nombre": "Boconoito",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 727,
+	"estado_id": 16,
+	"municipio_id": 222,
+	"nombre": "Antolín Tovar",
+	"ine_municipio": 12,
+	"ine_parroquia": 2
+}, {
+	"_id": 728,
+	"estado_id": 16,
+	"municipio_id": 223,
+	"nombre": "San Rafael de Onoto",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 729,
+	"estado_id": 16,
+	"municipio_id": 223,
+	"nombre": "Santa Fe",
+	"ine_municipio": 13,
+	"ine_parroquia": 2
+}, {
+	"_id": 730,
+	"estado_id": 16,
+	"municipio_id": 223,
+	"nombre": "Thermo Morles",
+	"ine_municipio": 13,
+	"ine_parroquia": 3
+}, {
+	"_id": 731,
+	"estado_id": 16,
+	"municipio_id": 224,
+	"nombre": "El Playón ",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 732,
+	"estado_id": 16,
+	"municipio_id": 224,
+	"nombre": "Florida",
+	"ine_municipio": 14,
+	"ine_parroquia": 2
+}, {
+	"_id": 733,
+	"estado_id": 17,
+	"municipio_id": 225,
+	"nombre": "Río Caribe",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 734,
+	"estado_id": 17,
+	"municipio_id": 225,
+	"nombre": "San Juan de Las Galdonas",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 735,
+	"estado_id": 17,
+	"municipio_id": 225,
+	"nombre": "Puerto Santo",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 736,
+	"estado_id": 17,
+	"municipio_id": 225,
+	"nombre": "El Morro de Puerto Santo",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 737,
+	"estado_id": 17,
+	"municipio_id": 225,
+	"nombre": "Antonio José de Sucre",
+	"ine_municipio": 1,
+	"ine_parroquia": 5
+}, {
+	"_id": 738,
+	"estado_id": 17,
+	"municipio_id": 226,
+	"nombre": "El Pilar",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 739,
+	"estado_id": 17,
+	"municipio_id": 226,
+	"nombre": "El Rincón",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 740,
+	"estado_id": 17,
+	"municipio_id": 226,
+	"nombre": "Guaraúnos",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 741,
+	"estado_id": 17,
+	"municipio_id": 226,
+	"nombre": "Tunapuicito",
+	"ine_municipio": 2,
+	"ine_parroquia": 4
+}, {
+	"_id": 742,
+	"estado_id": 17,
+	"municipio_id": 226,
+	"nombre": "Unión",
+	"ine_municipio": 2,
+	"ine_parroquia": 5
+}, {
+	"_id": 743,
+	"estado_id": 17,
+	"municipio_id": 226,
+	"nombre": "General Francisco Antonio Vásquez",
+	"ine_municipio": 2,
+	"ine_parroquia": 6
+}, {
+	"_id": 744,
+	"estado_id": 17,
+	"municipio_id": 227,
+	"nombre": "Santa Catalina",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 745,
+	"estado_id": 17,
+	"municipio_id": 227,
+	"nombre": "Santa Rosa",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 746,
+	"estado_id": 17,
+	"municipio_id": 227,
+	"nombre": "Santa Teresa",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 747,
+	"estado_id": 17,
+	"municipio_id": 227,
+	"nombre": "Bolívar",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 748,
+	"estado_id": 17,
+	"municipio_id": 227,
+	"nombre": "Macarapana",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 749,
+	"estado_id": 17,
+	"municipio_id": 228,
+	"nombre": "Yaguaraparo",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 750,
+	"estado_id": 17,
+	"municipio_id": 228,
+	"nombre": "Libertad",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 751,
+	"estado_id": 17,
+	"municipio_id": 228,
+	"nombre": "El Paujil",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 752,
+	"estado_id": 17,
+	"municipio_id": 229,
+	"nombre": "Irapa",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 753,
+	"estado_id": 17,
+	"municipio_id": 229,
+	"nombre": "Campo Claro",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 754,
+	"estado_id": 17,
+	"municipio_id": 229,
+	"nombre": "Soro",
+	"ine_municipio": 5,
+	"ine_parroquia": 3
+}, {
+	"_id": 755,
+	"estado_id": 17,
+	"municipio_id": 229,
+	"nombre": "San Antonio de Irapa",
+	"ine_municipio": 5,
+	"ine_parroquia": 4
+}, {
+	"_id": 756,
+	"estado_id": 17,
+	"municipio_id": 229,
+	"nombre": "Marabal",
+	"ine_municipio": 5,
+	"ine_parroquia": 5
+}, {
+	"_id": 757,
+	"estado_id": 17,
+	"municipio_id": 230,
+	"nombre": "San Antonio del Golfo",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 758,
+	"estado_id": 17,
+	"municipio_id": 231,
+	"nombre": "Cumanacoa",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 759,
+	"estado_id": 17,
+	"municipio_id": 231,
+	"nombre": "Arenas",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 760,
+	"estado_id": 17,
+	"municipio_id": 231,
+	"nombre": "Aricagua",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 761,
+	"estado_id": 17,
+	"municipio_id": 231,
+	"nombre": "Cocollar",
+	"ine_municipio": 7,
+	"ine_parroquia": 4
+}, {
+	"_id": 762,
+	"estado_id": 17,
+	"municipio_id": 231,
+	"nombre": "San Fernando",
+	"ine_municipio": 7,
+	"ine_parroquia": 5
+}, {
+	"_id": 763,
+	"estado_id": 17,
+	"municipio_id": 231,
+	"nombre": "San Lorenzo",
+	"ine_municipio": 7,
+	"ine_parroquia": 6
+}, {
+	"_id": 764,
+	"estado_id": 17,
+	"municipio_id": 232,
+	"nombre": "Cariaco",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 765,
+	"estado_id": 17,
+	"municipio_id": 232,
+	"nombre": "Catuaro",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 766,
+	"estado_id": 17,
+	"municipio_id": 232,
+	"nombre": "Rendón",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 767,
+	"estado_id": 17,
+	"municipio_id": 232,
+	"nombre": "Santa Cruz",
+	"ine_municipio": 8,
+	"ine_parroquia": 4
+}, {
+	"_id": 768,
+	"estado_id": 17,
+	"municipio_id": 232,
+	"nombre": "Santa María",
+	"ine_municipio": 8,
+	"ine_parroquia": 5
+}, {
+	"_id": 769,
+	"estado_id": 17,
+	"municipio_id": 233,
+	"nombre": "Altagracia",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 770,
+	"estado_id": 17,
+	"municipio_id": 233,
+	"nombre": "Ayacucho",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 771,
+	"estado_id": 17,
+	"municipio_id": 233,
+	"nombre": "Santa Inés",
+	"ine_municipio": 9,
+	"ine_parroquia": 3
+}, {
+	"_id": 772,
+	"estado_id": 17,
+	"municipio_id": 233,
+	"nombre": "Valentín Valiente",
+	"ine_municipio": 9,
+	"ine_parroquia": 4
+}, {
+	"_id": 773,
+	"estado_id": 17,
+	"municipio_id": 233,
+	"nombre": "San Juan",
+	"ine_municipio": 9,
+	"ine_parroquia": 5
+}, {
+	"_id": 774,
+	"estado_id": 17,
+	"municipio_id": 233,
+	"nombre": "Gran Mariscal",
+	"ine_municipio": 9,
+	"ine_parroquia": 6
+}, {
+	"_id": 775,
+	"estado_id": 17,
+	"municipio_id": 233,
+	"nombre": "Raúl Leoni",
+	"ine_municipio": 9,
+	"ine_parroquia": 7
+}, {
+	"_id": 776,
+	"estado_id": 17,
+	"municipio_id": 234,
+	"nombre": "Güiria",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 777,
+	"estado_id": 17,
+	"municipio_id": 234,
+	"nombre": "Cristóbal Colón",
+	"ine_municipio": 10,
+	"ine_parroquia": 2
+}, {
+	"_id": 778,
+	"estado_id": 17,
+	"municipio_id": 234,
+	"nombre": "Punta de Piedras",
+	"ine_municipio": 10,
+	"ine_parroquia": 3
+}, {
+	"_id": 779,
+	"estado_id": 17,
+	"municipio_id": 234,
+	"nombre": "Bideau",
+	"ine_municipio": 10,
+	"ine_parroquia": 4
+}, {
+	"_id": 780,
+	"estado_id": 17,
+	"municipio_id": 235,
+	"nombre": "Tunapuy",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 781,
+	"estado_id": 17,
+	"municipio_id": 235,
+	"nombre": "Campo Elías",
+	"ine_municipio": 12,
+	"ine_parroquia": 2
+}, {
+	"_id": 782,
+	"estado_id": 17,
+	"municipio_id": 236,
+	"nombre": "Mariño",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 783,
+	"estado_id": 17,
+	"municipio_id": 236,
+	"nombre": "Rómulo Gallegos",
+	"ine_municipio": 11,
+	"ine_parroquia": 2
+}, {
+	"_id": 784,
+	"estado_id": 17,
+	"municipio_id": 237,
+	"nombre": "San José de Aerocuar",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 785,
+	"estado_id": 17,
+	"municipio_id": 237,
+	"nombre": "Tavera Acosta",
+	"ine_municipio": 13,
+	"ine_parroquia": 2
+}, {
+	"_id": 786,
+	"estado_id": 17,
+	"municipio_id": 238,
+	"nombre": "Marigüitar",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 787,
+	"estado_id": 17,
+	"municipio_id": 239,
+	"nombre": "Araya",
+	"ine_municipio": 15,
+	"ine_parroquia": 1
+}, {
+	"_id": 788,
+	"estado_id": 17,
+	"municipio_id": 239,
+	"nombre": "Manicuare",
+	"ine_municipio": 15,
+	"ine_parroquia": 2
+}, {
+	"_id": 789,
+	"estado_id": 17,
+	"municipio_id": 239,
+	"nombre": "Chacopata",
+	"ine_municipio": 15,
+	"ine_parroquia": 3
+}, {
+	"_id": 790,
+	"estado_id": 18,
+	"municipio_id": 240,
+	"nombre": "Colón",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 791,
+	"estado_id": 18,
+	"municipio_id": 240,
+	"nombre": "Rivas Berti",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 792,
+	"estado_id": 18,
+	"municipio_id": 240,
+	"nombre": "San Pedro del Río",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 793,
+	"estado_id": 18,
+	"municipio_id": 241,
+	"nombre": "San Antonio del Táchira",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 794,
+	"estado_id": 18,
+	"municipio_id": 241,
+	"nombre": "Palotal",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 795,
+	"estado_id": 18,
+	"municipio_id": 241,
+	"nombre": "Juan Vicente Gómez",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 796,
+	"estado_id": 18,
+	"municipio_id": 241,
+	"nombre": "Isaías Medina Angarita",
+	"ine_municipio": 2,
+	"ine_parroquia": 4
+}, {
+	"_id": 797,
+	"estado_id": 18,
+	"municipio_id": 242,
+	"nombre": "Capacho Nuevo",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 798,
+	"estado_id": 18,
+	"municipio_id": 242,
+	"nombre": "Juan Germán Roscio",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 799,
+	"estado_id": 18,
+	"municipio_id": 242,
+	"nombre": "Román Cárdenas",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 800,
+	"estado_id": 18,
+	"municipio_id": 243,
+	"nombre": "Táriba",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 801,
+	"estado_id": 18,
+	"municipio_id": 243,
+	"nombre": "La Florida",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 802,
+	"estado_id": 18,
+	"municipio_id": 243,
+	"nombre": "Amenodoro Rangel Lamús",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 803,
+	"estado_id": 18,
+	"municipio_id": 244,
+	"nombre": "La Grita",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 804,
+	"estado_id": 18,
+	"municipio_id": 244,
+	"nombre": "Emilio Constantino Guerrero",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 805,
+	"estado_id": 18,
+	"municipio_id": 244,
+	"nombre": "Monseñor Miguel Antonio Salas",
+	"ine_municipio": 5,
+	"ine_parroquia": 3
+}, {
+	"_id": 806,
+	"estado_id": 18,
+	"municipio_id": 245,
+	"nombre": "Rubio",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 807,
+	"estado_id": 18,
+	"municipio_id": 245,
+	"nombre": "Bramón",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 808,
+	"estado_id": 18,
+	"municipio_id": 245,
+	"nombre": "La Petrólea",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 809,
+	"estado_id": 18,
+	"municipio_id": 245,
+	"nombre": "Quinimarí",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 810,
+	"estado_id": 18,
+	"municipio_id": 246,
+	"nombre": "Lobatera",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 811,
+	"estado_id": 18,
+	"municipio_id": 246,
+	"nombre": "Constitución",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 812,
+	"estado_id": 18,
+	"municipio_id": 247,
+	"nombre": "La Concordia",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 813,
+	"estado_id": 18,
+	"municipio_id": 247,
+	"nombre": "Pedro María Morantes",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 814,
+	"estado_id": 18,
+	"municipio_id": 247,
+	"nombre": "San Juan Bautista",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 815,
+	"estado_id": 18,
+	"municipio_id": 247,
+	"nombre": "San Sebastián",
+	"ine_municipio": 8,
+	"ine_parroquia": 4
+}, {
+	"_id": 816,
+	"estado_id": 18,
+	"municipio_id": 247,
+	"nombre": "Dr. Francisco Romero Lobo",
+	"ine_municipio": 8,
+	"ine_parroquia": 5
+}, {
+	"_id": 817,
+	"estado_id": 18,
+	"municipio_id": 248,
+	"nombre": "Pregonero",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 818,
+	"estado_id": 18,
+	"municipio_id": 248,
+	"nombre": "Cárdenas",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 819,
+	"estado_id": 18,
+	"municipio_id": 248,
+	"nombre": "Potosí",
+	"ine_municipio": 9,
+	"ine_parroquia": 3
+}, {
+	"_id": 820,
+	"estado_id": 18,
+	"municipio_id": 248,
+	"nombre": "Juan Pablo Peñaloza",
+	"ine_municipio": 9,
+	"ine_parroquia": 4
+}, {
+	"_id": 821,
+	"estado_id": 18,
+	"municipio_id": 249,
+	"nombre": "Santa Ana ",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 822,
+	"estado_id": 18,
+	"municipio_id": 250,
+	"nombre": "La Fría",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 823,
+	"estado_id": 18,
+	"municipio_id": 250,
+	"nombre": "Boca de Grita",
+	"ine_municipio": 11,
+	"ine_parroquia": 2
+}, {
+	"_id": 824,
+	"estado_id": 18,
+	"municipio_id": 250,
+	"nombre": "José Antonio Páez",
+	"ine_municipio": 11,
+	"ine_parroquia": 3
+}, {
+	"_id": 825,
+	"estado_id": 18,
+	"municipio_id": 251,
+	"nombre": "Palmira",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 826,
+	"estado_id": 18,
+	"municipio_id": 252,
+	"nombre": "Michelena",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 827,
+	"estado_id": 18,
+	"municipio_id": 253,
+	"nombre": "Abejales",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 828,
+	"estado_id": 18,
+	"municipio_id": 253,
+	"nombre": "San Joaquín de Navay",
+	"ine_municipio": 14,
+	"ine_parroquia": 2
+}, {
+	"_id": 829,
+	"estado_id": 18,
+	"municipio_id": 253,
+	"nombre": "Doradas",
+	"ine_municipio": 14,
+	"ine_parroquia": 3
+}, {
+	"_id": 830,
+	"estado_id": 18,
+	"municipio_id": 253,
+	"nombre": "Emeterio Ochoa",
+	"ine_municipio": 14,
+	"ine_parroquia": 4
+}, {
+	"_id": 831,
+	"estado_id": 18,
+	"municipio_id": 254,
+	"nombre": "Coloncito",
+	"ine_municipio": 15,
+	"ine_parroquia": 1
+}, {
+	"_id": 832,
+	"estado_id": 18,
+	"municipio_id": 254,
+	"nombre": "La Palmita",
+	"ine_municipio": 15,
+	"ine_parroquia": 2
+}, {
+	"_id": 833,
+	"estado_id": 18,
+	"municipio_id": 255,
+	"nombre": "Ureña",
+	"ine_municipio": 16,
+	"ine_parroquia": 1
+}, {
+	"_id": 834,
+	"estado_id": 18,
+	"municipio_id": 255,
+	"nombre": "Nueva Arcadia",
+	"ine_municipio": 16,
+	"ine_parroquia": 2
+}, {
+	"_id": 835,
+	"estado_id": 18,
+	"municipio_id": 256,
+	"nombre": "Queniquea",
+	"ine_municipio": 17,
+	"ine_parroquia": 1
+}, {
+	"_id": 836,
+	"estado_id": 18,
+	"municipio_id": 256,
+	"nombre": "San Pablo",
+	"ine_municipio": 17,
+	"ine_parroquia": 2
+}, {
+	"_id": 837,
+	"estado_id": 18,
+	"municipio_id": 256,
+	"nombre": "Eleazar López Contreras",
+	"ine_municipio": 17,
+	"ine_parroquia": 3
+}, {
+	"_id": 838,
+	"estado_id": 18,
+	"municipio_id": 257,
+	"nombre": "Cordero ",
+	"ine_municipio": 18,
+	"ine_parroquia": 1
+}, {
+	"_id": 839,
+	"estado_id": 18,
+	"municipio_id": 258,
+	"nombre": "San Rafael del Piñal",
+	"ine_municipio": 19,
+	"ine_parroquia": 1
+}, {
+	"_id": 840,
+	"estado_id": 18,
+	"municipio_id": 258,
+	"nombre": "Santo Domingo",
+	"ine_municipio": 19,
+	"ine_parroquia": 2
+}, {
+	"_id": 841,
+	"estado_id": 18,
+	"municipio_id": 258,
+	"nombre": "Alberto Adriani",
+	"ine_municipio": 19,
+	"ine_parroquia": 3
+}, {
+	"_id": 842,
+	"estado_id": 18,
+	"municipio_id": 259,
+	"nombre": "Capacho Viejo",
+	"ine_municipio": 20,
+	"ine_parroquia": 1
+}, {
+	"_id": 843,
+	"estado_id": 18,
+	"municipio_id": 259,
+	"nombre": "Cipriano Castro",
+	"ine_municipio": 20,
+	"ine_parroquia": 2
+}, {
+	"_id": 844,
+	"estado_id": 18,
+	"municipio_id": 259,
+	"nombre": "Manuel Felipe Rugeles",
+	"ine_municipio": 20,
+	"ine_parroquia": 3
+}, {
+	"_id": 845,
+	"estado_id": 18,
+	"municipio_id": 260,
+	"nombre": "Seboruco",
+	"ine_municipio": 22,
+	"ine_parroquia": 1
+}, {
+	"_id": 846,
+	"estado_id": 18,
+	"municipio_id": 261,
+	"nombre": "La Tendida",
+	"ine_municipio": 21,
+	"ine_parroquia": 1
+}, {
+	"_id": 847,
+	"estado_id": 18,
+	"municipio_id": 261,
+	"nombre": "Boconó",
+	"ine_municipio": 21,
+	"ine_parroquia": 2
+}, {
+	"_id": 848,
+	"estado_id": 18,
+	"municipio_id": 261,
+	"nombre": "Hernández",
+	"ine_municipio": 21,
+	"ine_parroquia": 3
+}, {
+	"_id": 849,
+	"estado_id": 18,
+	"municipio_id": 262,
+	"nombre": "Las Mesas",
+	"ine_municipio": 23,
+	"ine_parroquia": 1
+}, {
+	"_id": 850,
+	"estado_id": 18,
+	"municipio_id": 263,
+	"nombre": "Delicias",
+	"ine_municipio": 26,
+	"ine_parroquia": 1
+}, {
+	"_id": 851,
+	"estado_id": 18,
+	"municipio_id": 264,
+	"nombre": "San Josecito",
+	"ine_municipio": 28,
+	"ine_parroquia": 1
+}, {
+	"_id": 852,
+	"estado_id": 18,
+	"municipio_id": 265,
+	"nombre": "San José de Bolívar ",
+	"ine_municipio": 24,
+	"ine_parroquia": 1
+}, {
+	"_id": 853,
+	"estado_id": 18,
+	"municipio_id": 266,
+	"nombre": "San Simón ",
+	"ine_municipio": 27,
+	"ine_parroquia": 1
+}, {
+	"_id": 854,
+	"estado_id": 18,
+	"municipio_id": 267,
+	"nombre": "EL Cobre",
+	"ine_municipio": 25,
+	"ine_parroquia": 1
+}, {
+	"_id": 855,
+	"estado_id": 18,
+	"municipio_id": 268,
+	"nombre": "Umuquena",
+	"ine_municipio": 29,
+	"ine_parroquia": 1
+}, {
+	"_id": 856,
+	"estado_id": 19,
+	"municipio_id": 269,
+	"nombre": "Betijoque",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 857,
+	"estado_id": 19,
+	"municipio_id": 269,
+	"nombre": "José Gregorio Hernández",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 858,
+	"estado_id": 19,
+	"municipio_id": 269,
+	"nombre": "La Pueblita",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 859,
+	"estado_id": 19,
+	"municipio_id": 269,
+	"nombre": "Los Cedros",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 860,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "Boconó",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 861,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "El Carmen",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 862,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "Mosquey",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 863,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "Ayacucho",
+	"ine_municipio": 2,
+	"ine_parroquia": 4
+}, {
+	"_id": 864,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "Burbusay",
+	"ine_municipio": 2,
+	"ine_parroquia": 5
+}, {
+	"_id": 865,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "General Rivas",
+	"ine_municipio": 2,
+	"ine_parroquia": 6
+}, {
+	"_id": 866,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "Monseñor Jáuregui",
+	"ine_municipio": 2,
+	"ine_parroquia": 7
+}, {
+	"_id": 867,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "Rafael Rangel",
+	"ine_municipio": 2,
+	"ine_parroquia": 8
+}, {
+	"_id": 868,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "San José",
+	"ine_municipio": 2,
+	"ine_parroquia": 9
+}, {
+	"_id": 869,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "San Miguel",
+	"ine_municipio": 2,
+	"ine_parroquia": 10
+}, {
+	"_id": 870,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "Guaramacal",
+	"ine_municipio": 2,
+	"ine_parroquia": 11
+}, {
+	"_id": 871,
+	"estado_id": 19,
+	"municipio_id": 270,
+	"nombre": "Vega de Guaramacal",
+	"ine_municipio": 2,
+	"ine_parroquia": 12
+}, {
+	"_id": 872,
+	"estado_id": 19,
+	"municipio_id": 271,
+	"nombre": "Carache",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 873,
+	"estado_id": 19,
+	"municipio_id": 271,
+	"nombre": "La Concepción",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 874,
+	"estado_id": 19,
+	"municipio_id": 271,
+	"nombre": "Cuicas",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 875,
+	"estado_id": 19,
+	"municipio_id": 271,
+	"nombre": "Panamericana",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 876,
+	"estado_id": 19,
+	"municipio_id": 271,
+	"nombre": "Santa Cruz",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 877,
+	"estado_id": 19,
+	"municipio_id": 272,
+	"nombre": "Escuque",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 878,
+	"estado_id": 19,
+	"municipio_id": 272,
+	"nombre": "Sabana Libre",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 879,
+	"estado_id": 19,
+	"municipio_id": 272,
+	"nombre": "La Unión",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 880,
+	"estado_id": 19,
+	"municipio_id": 272,
+	"nombre": "Santa Rita",
+	"ine_municipio": 4,
+	"ine_parroquia": 4
+}, {
+	"_id": 881,
+	"estado_id": 19,
+	"municipio_id": 273,
+	"nombre": "Cristóbal Mendoza",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 882,
+	"estado_id": 19,
+	"municipio_id": 273,
+	"nombre": "Chiquinquirá",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 883,
+	"estado_id": 19,
+	"municipio_id": 273,
+	"nombre": "Matriz",
+	"ine_municipio": 5,
+	"ine_parroquia": 3
+}, {
+	"_id": 884,
+	"estado_id": 19,
+	"municipio_id": 273,
+	"nombre": "Monseñor Carrillo",
+	"ine_municipio": 5,
+	"ine_parroquia": 4
+}, {
+	"_id": 885,
+	"estado_id": 19,
+	"municipio_id": 273,
+	"nombre": "Cruz Carrillo",
+	"ine_municipio": 5,
+	"ine_parroquia": 5
+}, {
+	"_id": 886,
+	"estado_id": 19,
+	"municipio_id": 273,
+	"nombre": "Andrés Linares",
+	"ine_municipio": 5,
+	"ine_parroquia": 6
+}, {
+	"_id": 887,
+	"estado_id": 19,
+	"municipio_id": 273,
+	"nombre": "Tres Esquinas",
+	"ine_municipio": 5,
+	"ine_parroquia": 7
+}, {
+	"_id": 888,
+	"estado_id": 19,
+	"municipio_id": 274,
+	"nombre": "La Quebrada",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 889,
+	"estado_id": 19,
+	"municipio_id": 274,
+	"nombre": "Jajó",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 890,
+	"estado_id": 19,
+	"municipio_id": 274,
+	"nombre": "La Mesa",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 891,
+	"estado_id": 19,
+	"municipio_id": 274,
+	"nombre": "Santiago",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 892,
+	"estado_id": 19,
+	"municipio_id": 274,
+	"nombre": "Cabimbú",
+	"ine_municipio": 6,
+	"ine_parroquia": 5
+}, {
+	"_id": 893,
+	"estado_id": 19,
+	"municipio_id": 274,
+	"nombre": "Tuñame",
+	"ine_municipio": 6,
+	"ine_parroquia": 6
+}, {
+	"_id": 894,
+	"estado_id": 19,
+	"municipio_id": 275,
+	"nombre": "Mercedes Díaz",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 895,
+	"estado_id": 19,
+	"municipio_id": 275,
+	"nombre": "Juan Ignacio Montilla",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 896,
+	"estado_id": 19,
+	"municipio_id": 275,
+	"nombre": "La Beatriz",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 897,
+	"estado_id": 19,
+	"municipio_id": 275,
+	"nombre": "Mendoza",
+	"ine_municipio": 7,
+	"ine_parroquia": 4
+}, {
+	"_id": 898,
+	"estado_id": 19,
+	"municipio_id": 275,
+	"nombre": "La Puerta",
+	"ine_municipio": 7,
+	"ine_parroquia": 5
+}, {
+	"_id": 899,
+	"estado_id": 19,
+	"municipio_id": 275,
+	"nombre": "San Luis",
+	"ine_municipio": 7,
+	"ine_parroquia": 6
+}, {
+	"_id": 900,
+	"estado_id": 19,
+	"municipio_id": 276,
+	"nombre": "Chejendé",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 901,
+	"estado_id": 19,
+	"municipio_id": 276,
+	"nombre": "Carrillo",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 902,
+	"estado_id": 19,
+	"municipio_id": 276,
+	"nombre": "Cegarra",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 903,
+	"estado_id": 19,
+	"municipio_id": 276,
+	"nombre": "Bolivia",
+	"ine_municipio": 8,
+	"ine_parroquia": 4
+}, {
+	"_id": 904,
+	"estado_id": 19,
+	"municipio_id": 276,
+	"nombre": "Manuel Salvador Ulloa",
+	"ine_municipio": 8,
+	"ine_parroquia": 5
+}, {
+	"_id": 905,
+	"estado_id": 19,
+	"municipio_id": 276,
+	"nombre": "San José",
+	"ine_municipio": 8,
+	"ine_parroquia": 6
+}, {
+	"_id": 906,
+	"estado_id": 19,
+	"municipio_id": 276,
+	"nombre": "Arnoldo Gabaldón",
+	"ine_municipio": 8,
+	"ine_parroquia": 7
+}, {
+	"_id": 907,
+	"estado_id": 19,
+	"municipio_id": 277,
+	"nombre": "El Dividive",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 908,
+	"estado_id": 19,
+	"municipio_id": 277,
+	"nombre": "Agua Caliente",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 909,
+	"estado_id": 19,
+	"municipio_id": 277,
+	"nombre": "El Cenizo",
+	"ine_municipio": 9,
+	"ine_parroquia": 3
+}, {
+	"_id": 910,
+	"estado_id": 19,
+	"municipio_id": 277,
+	"nombre": "Agua Santa",
+	"ine_municipio": 9,
+	"ine_parroquia": 4
+}, {
+	"_id": 911,
+	"estado_id": 19,
+	"municipio_id": 277,
+	"nombre": "Valerita",
+	"ine_municipio": 9,
+	"ine_parroquia": 5
+}, {
+	"_id": 912,
+	"estado_id": 19,
+	"municipio_id": 278,
+	"nombre": "Monte Carmelo",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 913,
+	"estado_id": 19,
+	"municipio_id": 278,
+	"nombre": "Buena Vista",
+	"ine_municipio": 10,
+	"ine_parroquia": 2
+}, {
+	"_id": 914,
+	"estado_id": 19,
+	"municipio_id": 278,
+	"nombre": "Santa María del Horcón",
+	"ine_municipio": 10,
+	"ine_parroquia": 3
+}, {
+	"_id": 915,
+	"estado_id": 19,
+	"municipio_id": 279,
+	"nombre": "Motatán",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 916,
+	"estado_id": 19,
+	"municipio_id": 279,
+	"nombre": "El Baño",
+	"ine_municipio": 11,
+	"ine_parroquia": 2
+}, {
+	"_id": 917,
+	"estado_id": 19,
+	"municipio_id": 279,
+	"nombre": "Jalisco",
+	"ine_municipio": 11,
+	"ine_parroquia": 3
+}, {
+	"_id": 918,
+	"estado_id": 19,
+	"municipio_id": 280,
+	"nombre": "Pampán",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 919,
+	"estado_id": 19,
+	"municipio_id": 280,
+	"nombre": "Santa Ana",
+	"ine_municipio": 12,
+	"ine_parroquia": 2
+}, {
+	"_id": 920,
+	"estado_id": 19,
+	"municipio_id": 280,
+	"nombre": "La Paz",
+	"ine_municipio": 12,
+	"ine_parroquia": 3
+}, {
+	"_id": 921,
+	"estado_id": 19,
+	"municipio_id": 280,
+	"nombre": "Flor de Patria",
+	"ine_municipio": 12,
+	"ine_parroquia": 4
+}, {
+	"_id": 922,
+	"estado_id": 19,
+	"municipio_id": 281,
+	"nombre": "Carvajal",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 923,
+	"estado_id": 19,
+	"municipio_id": 281,
+	"nombre": "Antonio Nicolás Briceño",
+	"ine_municipio": 13,
+	"ine_parroquia": 2
+}, {
+	"_id": 924,
+	"estado_id": 19,
+	"municipio_id": 281,
+	"nombre": "Campo Alegre",
+	"ine_municipio": 13,
+	"ine_parroquia": 3
+}, {
+	"_id": 925,
+	"estado_id": 19,
+	"municipio_id": 281,
+	"nombre": "José Leonardo Suárez",
+	"ine_municipio": 13,
+	"ine_parroquia": 4
+}, {
+	"_id": 926,
+	"estado_id": 19,
+	"municipio_id": 282,
+	"nombre": "Sabana de Mendoza",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 927,
+	"estado_id": 19,
+	"municipio_id": 282,
+	"nombre": "Junín",
+	"ine_municipio": 14,
+	"ine_parroquia": 2
+}, {
+	"_id": 928,
+	"estado_id": 19,
+	"municipio_id": 282,
+	"nombre": "Valmore Rodríguez",
+	"ine_municipio": 14,
+	"ine_parroquia": 3
+}, {
+	"_id": 929,
+	"estado_id": 19,
+	"municipio_id": 282,
+	"nombre": "El Paraíso",
+	"ine_municipio": 14,
+	"ine_parroquia": 4
+}, {
+	"_id": 930,
+	"estado_id": 19,
+	"municipio_id": 283,
+	"nombre": "Santa Isabel",
+	"ine_municipio": 15,
+	"ine_parroquia": 1
+}, {
+	"_id": 931,
+	"estado_id": 19,
+	"municipio_id": 283,
+	"nombre": "Araguaney",
+	"ine_municipio": 15,
+	"ine_parroquia": 2
+}, {
+	"_id": 932,
+	"estado_id": 19,
+	"municipio_id": 283,
+	"nombre": "El Jagüito",
+	"ine_municipio": 15,
+	"ine_parroquia": 3
+}, {
+	"_id": 933,
+	"estado_id": 19,
+	"municipio_id": 283,
+	"nombre": "La Esperanza",
+	"ine_municipio": 15,
+	"ine_parroquia": 4
+}, {
+	"_id": 934,
+	"estado_id": 19,
+	"municipio_id": 284,
+	"nombre": "Sabana Grande",
+	"ine_municipio": 16,
+	"ine_parroquia": 1
+}, {
+	"_id": 935,
+	"estado_id": 19,
+	"municipio_id": 284,
+	"nombre": "Cheregüé",
+	"ine_municipio": 16,
+	"ine_parroquia": 2
+}, {
+	"_id": 936,
+	"estado_id": 19,
+	"municipio_id": 284,
+	"nombre": "Granados",
+	"ine_municipio": 16,
+	"ine_parroquia": 3
+}, {
+	"_id": 937,
+	"estado_id": 19,
+	"municipio_id": 285,
+	"nombre": "El Socorro",
+	"ine_municipio": 17,
+	"ine_parroquia": 1
+}, {
+	"_id": 938,
+	"estado_id": 19,
+	"municipio_id": 285,
+	"nombre": "Los Caprichos",
+	"ine_municipio": 17,
+	"ine_parroquia": 2
+}, {
+	"_id": 939,
+	"estado_id": 19,
+	"municipio_id": 285,
+	"nombre": "Antonio José de Sucre",
+	"ine_municipio": 17,
+	"ine_parroquia": 3
+}, {
+	"_id": 940,
+	"estado_id": 19,
+	"municipio_id": 286,
+	"nombre": "Campo Elías",
+	"ine_municipio": 18,
+	"ine_parroquia": 1
+}, {
+	"_id": 941,
+	"estado_id": 19,
+	"municipio_id": 286,
+	"nombre": "Arnoldo Gabaldón",
+	"ine_municipio": 18,
+	"ine_parroquia": 2
+}, {
+	"_id": 942,
+	"estado_id": 19,
+	"municipio_id": 287,
+	"nombre": "Santa Apolonia",
+	"ine_municipio": 19,
+	"ine_parroquia": 1
+}, {
+	"_id": 943,
+	"estado_id": 19,
+	"municipio_id": 287,
+	"nombre": "La Ceiba",
+	"ine_municipio": 19,
+	"ine_parroquia": 2
+}, {
+	"_id": 944,
+	"estado_id": 19,
+	"municipio_id": 287,
+	"nombre": "El Progreso",
+	"ine_municipio": 19,
+	"ine_parroquia": 3
+}, {
+	"_id": 945,
+	"estado_id": 19,
+	"municipio_id": 287,
+	"nombre": "Tres de Febrero",
+	"ine_municipio": 19,
+	"ine_parroquia": 4
+}, {
+	"_id": 946,
+	"estado_id": 19,
+	"municipio_id": 288,
+	"nombre": "Pampanito",
+	"ine_municipio": 20,
+	"ine_parroquia": 1
+}, {
+	"_id": 947,
+	"estado_id": 19,
+	"municipio_id": 288,
+	"nombre": "Pampanito II",
+	"ine_municipio": 20,
+	"ine_parroquia": 2
+}, {
+	"_id": 948,
+	"estado_id": 19,
+	"municipio_id": 288,
+	"nombre": "La Concepción",
+	"ine_municipio": 20,
+	"ine_parroquia": 3
+}, {
+	"_id": 949,
+	"estado_id": 20,
+	"municipio_id": 289,
+	"nombre": "Aroa",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 950,
+	"estado_id": 20,
+	"municipio_id": 290,
+	"nombre": "Chivacoa",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 951,
+	"estado_id": 20,
+	"municipio_id": 290,
+	"nombre": "Campo Elías",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 952,
+	"estado_id": 20,
+	"municipio_id": 291,
+	"nombre": "Nirgua",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 953,
+	"estado_id": 20,
+	"municipio_id": 291,
+	"nombre": "Salom",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 954,
+	"estado_id": 20,
+	"municipio_id": 291,
+	"nombre": "Temerla",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 955,
+	"estado_id": 20,
+	"municipio_id": 292,
+	"nombre": "San Felipe",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 956,
+	"estado_id": 20,
+	"municipio_id": 292,
+	"nombre": "Albarico",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 957,
+	"estado_id": 20,
+	"municipio_id": 292,
+	"nombre": "San Javier",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 958,
+	"estado_id": 20,
+	"municipio_id": 293,
+	"nombre": "Guama",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 959,
+	"estado_id": 20,
+	"municipio_id": 294,
+	"nombre": "Urachiche",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 960,
+	"estado_id": 20,
+	"municipio_id": 295,
+	"nombre": "Yaritagua",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 961,
+	"estado_id": 20,
+	"municipio_id": 295,
+	"nombre": "San Andrés",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 962,
+	"estado_id": 20,
+	"municipio_id": 296,
+	"nombre": "Sabana de Parra",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 963,
+	"estado_id": 20,
+	"municipio_id": 297,
+	"nombre": "Boraure",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 964,
+	"estado_id": 20,
+	"municipio_id": 298,
+	"nombre": "Cocorote",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 965,
+	"estado_id": 20,
+	"municipio_id": 299,
+	"nombre": "Independencia",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 966,
+	"estado_id": 20,
+	"municipio_id": 300,
+	"nombre": "San Pablo",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 967,
+	"estado_id": 20,
+	"municipio_id": 301,
+	"nombre": "Yumare",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 968,
+	"estado_id": 20,
+	"municipio_id": 302,
+	"nombre": "Farriar",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 969,
+	"estado_id": 20,
+	"municipio_id": 302,
+	"nombre": "El Guayabo",
+	"ine_municipio": 14,
+	"ine_parroquia": 2
+}, {
+	"_id": 970,
+	"estado_id": 21,
+	"municipio_id": 303,
+	"nombre": "General Urdaneta",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 971,
+	"estado_id": 21,
+	"municipio_id": 303,
+	"nombre": "Libertador",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 972,
+	"estado_id": 21,
+	"municipio_id": 303,
+	"nombre": "Manuel Guanipa Matos",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 973,
+	"estado_id": 21,
+	"municipio_id": 303,
+	"nombre": "Marcelino Briceño",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 974,
+	"estado_id": 21,
+	"municipio_id": 303,
+	"nombre": "San Timoteo",
+	"ine_municipio": 1,
+	"ine_parroquia": 5
+}, {
+	"_id": 975,
+	"estado_id": 21,
+	"municipio_id": 303,
+	"nombre": "Pueblo Nuevo",
+	"ine_municipio": 1,
+	"ine_parroquia": 6
+}, {
+	"_id": 976,
+	"estado_id": 21,
+	"municipio_id": 304,
+	"nombre": "Pedro Lucas Urribarri",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 977,
+	"estado_id": 21,
+	"municipio_id": 304,
+	"nombre": "Santa Rita",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 978,
+	"estado_id": 21,
+	"municipio_id": 304,
+	"nombre": "José Cenovio Urribarri",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 979,
+	"estado_id": 21,
+	"municipio_id": 304,
+	"nombre": "El Mene",
+	"ine_municipio": 2,
+	"ine_parroquia": 4
+}, {
+	"_id": 980,
+	"estado_id": 21,
+	"municipio_id": 305,
+	"nombre": "San Carlos del Zulia",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 981,
+	"estado_id": 21,
+	"municipio_id": 305,
+	"nombre": "Urribarri",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 982,
+	"estado_id": 21,
+	"municipio_id": 305,
+	"nombre": "Moralito",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 983,
+	"estado_id": 21,
+	"municipio_id": 305,
+	"nombre": "Santa Cruz del Zulia",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 984,
+	"estado_id": 21,
+	"municipio_id": 305,
+	"nombre": "Santa Bárbara",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 985,
+	"estado_id": 21,
+	"municipio_id": 306,
+	"nombre": "Luis de Vicente",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 986,
+	"estado_id": 21,
+	"municipio_id": 306,
+	"nombre": "Ricaurte",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 987,
+	"estado_id": 21,
+	"municipio_id": 306,
+	"nombre": "Monseñor Marcos Sergio Godoy",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 988,
+	"estado_id": 21,
+	"municipio_id": 306,
+	"nombre": "San Rafael",
+	"ine_municipio": 4,
+	"ine_parroquia": 4
+}, {
+	"_id": 989,
+	"estado_id": 21,
+	"municipio_id": 306,
+	"nombre": "Las Parcelas",
+	"ine_municipio": 4,
+	"ine_parroquia": 5
+}, {
+	"_id": 990,
+	"estado_id": 21,
+	"municipio_id": 306,
+	"nombre": "Tamare",
+	"ine_municipio": 4,
+	"ine_parroquia": 6
+}, {
+	"_id": 991,
+	"estado_id": 21,
+	"municipio_id": 306,
+	"nombre": "La Sierrita",
+	"ine_municipio": 4,
+	"ine_parroquia": 7
+}, {
+	"_id": 992,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Bolívar",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 993,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Coquivacoa",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 994,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Cristo de Aranza",
+	"ine_municipio": 5,
+	"ine_parroquia": 3
+}, {
+	"_id": 995,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Chiquinquirá",
+	"ine_municipio": 5,
+	"ine_parroquia": 4
+}, {
+	"_id": 996,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Santa Lucía",
+	"ine_municipio": 5,
+	"ine_parroquia": 5
+}, {
+	"_id": 997,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Olegario Villalobos",
+	"ine_municipio": 5,
+	"ine_parroquia": 6
+}, {
+	"_id": 998,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Juana de Avila",
+	"ine_municipio": 5,
+	"ine_parroquia": 7
+}, {
+	"_id": 999,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Caracciolo Parra Pérez",
+	"ine_municipio": 5,
+	"ine_parroquia": 8
+}, {
+	"_id": 1000,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Idelfonso Vásquez",
+	"ine_municipio": 5,
+	"ine_parroquia": 9
+}, {
+	"_id": 1001,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Cacique Mara",
+	"ine_municipio": 5,
+	"ine_parroquia": 10
+}, {
+	"_id": 1002,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Cecilio Acosta",
+	"ine_municipio": 5,
+	"ine_parroquia": 11
+}, {
+	"_id": 1003,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Raúl Leoni",
+	"ine_municipio": 5,
+	"ine_parroquia": 12
+}, {
+	"_id": 1004,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Francisco Eugenio Bustamante",
+	"ine_municipio": 5,
+	"ine_parroquia": 13
+}, {
+	"_id": 1005,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Manuel Dagnino",
+	"ine_municipio": 5,
+	"ine_parroquia": 14
+}, {
+	"_id": 1006,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Luis Hurtado Higuera",
+	"ine_municipio": 5,
+	"ine_parroquia": 15
+}, {
+	"_id": 1007,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Venancio Pulgar",
+	"ine_municipio": 5,
+	"ine_parroquia": 16
+}, {
+	"_id": 1008,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "Antonio Borjas Romero",
+	"ine_municipio": 5,
+	"ine_parroquia": 17
+}, {
+	"_id": 1009,
+	"estado_id": 21,
+	"municipio_id": 307,
+	"nombre": "San Isidro",
+	"ine_municipio": 5,
+	"ine_parroquia": 18
+}, {
+	"_id": 1010,
+	"estado_id": 21,
+	"municipio_id": 308,
+	"nombre": "Faría",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 1011,
+	"estado_id": 21,
+	"municipio_id": 308,
+	"nombre": "San Antonio",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 1012,
+	"estado_id": 21,
+	"municipio_id": 308,
+	"nombre": "Ana María Campos",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 1013,
+	"estado_id": 21,
+	"municipio_id": 308,
+	"nombre": "San José",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 1014,
+	"estado_id": 21,
+	"municipio_id": 308,
+	"nombre": "Altagracia",
+	"ine_municipio": 6,
+	"ine_parroquia": 5
+}, {
+	"_id": 1015,
+	"estado_id": 21,
+	"municipio_id": 309,
+	"nombre": "Goajira",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 1016,
+	"estado_id": 21,
+	"municipio_id": 309,
+	"nombre": "Elías Sánchez Rubio",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 1017,
+	"estado_id": 21,
+	"municipio_id": 309,
+	"nombre": "Sinamaica",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 1018,
+	"estado_id": 21,
+	"municipio_id": 309,
+	"nombre": "Alta Guajira",
+	"ine_municipio": 7,
+	"ine_parroquia": 4
+}, {
+	"_id": 1019,
+	"estado_id": 21,
+	"municipio_id": 310,
+	"nombre": "San José de Perijá",
+	"ine_municipio": 8,
+	"ine_parroquia": 1
+}, {
+	"_id": 1020,
+	"estado_id": 21,
+	"municipio_id": 310,
+	"nombre": "Bartolomé de las Casas",
+	"ine_municipio": 8,
+	"ine_parroquia": 2
+}, {
+	"_id": 1021,
+	"estado_id": 21,
+	"municipio_id": 310,
+	"nombre": "Libertad",
+	"ine_municipio": 8,
+	"ine_parroquia": 3
+}, {
+	"_id": 1022,
+	"estado_id": 21,
+	"municipio_id": 310,
+	"nombre": "Río Negro",
+	"ine_municipio": 8,
+	"ine_parroquia": 4
+}, {
+	"_id": 1023,
+	"estado_id": 21,
+	"municipio_id": 311,
+	"nombre": "Gibraltar",
+	"ine_municipio": 9,
+	"ine_parroquia": 1
+}, {
+	"_id": 1024,
+	"estado_id": 21,
+	"municipio_id": 311,
+	"nombre": "Heras",
+	"ine_municipio": 9,
+	"ine_parroquia": 2
+}, {
+	"_id": 1025,
+	"estado_id": 21,
+	"municipio_id": 311,
+	"nombre": "Monseñor Arturo Celestino Alvarez",
+	"ine_municipio": 9,
+	"ine_parroquia": 3
+}, {
+	"_id": 1026,
+	"estado_id": 21,
+	"municipio_id": 311,
+	"nombre": "Rómulo Gallegos",
+	"ine_municipio": 9,
+	"ine_parroquia": 4
+}, {
+	"_id": 1027,
+	"estado_id": 21,
+	"municipio_id": 311,
+	"nombre": "Bobures",
+	"ine_municipio": 9,
+	"ine_parroquia": 5
+}, {
+	"_id": 1028,
+	"estado_id": 21,
+	"municipio_id": 311,
+	"nombre": "El Batey",
+	"ine_municipio": 9,
+	"ine_parroquia": 6
+}, {
+	"_id": 1029,
+	"estado_id": 21,
+	"municipio_id": 312,
+	"nombre": "Andrés Bello",
+	"ine_municipio": 10,
+	"ine_parroquia": 1
+}, {
+	"_id": 1030,
+	"estado_id": 21,
+	"municipio_id": 312,
+	"nombre": "Potreritos",
+	"ine_municipio": 10,
+	"ine_parroquia": 2
+}, {
+	"_id": 1031,
+	"estado_id": 21,
+	"municipio_id": 312,
+	"nombre": "El Carmelo",
+	"ine_municipio": 10,
+	"ine_parroquia": 3
+}, {
+	"_id": 1032,
+	"estado_id": 21,
+	"municipio_id": 312,
+	"nombre": "Chiquinquirá",
+	"ine_municipio": 10,
+	"ine_parroquia": 4
+}, {
+	"_id": 1033,
+	"estado_id": 21,
+	"municipio_id": 312,
+	"nombre": "Concepción",
+	"ine_municipio": 10,
+	"ine_parroquia": 5
+}, {
+	"_id": 1034,
+	"estado_id": 21,
+	"municipio_id": 313,
+	"nombre": "Eleazar López Contreras",
+	"ine_municipio": 11,
+	"ine_parroquia": 1
+}, {
+	"_id": 1035,
+	"estado_id": 21,
+	"municipio_id": 313,
+	"nombre": "Alonso de Ojeda",
+	"ine_municipio": 11,
+	"ine_parroquia": 2
+}, {
+	"_id": 1036,
+	"estado_id": 21,
+	"municipio_id": 313,
+	"nombre": "Venezuela",
+	"ine_municipio": 11,
+	"ine_parroquia": 3
+}, {
+	"_id": 1037,
+	"estado_id": 21,
+	"municipio_id": 313,
+	"nombre": "Campo Lara",
+	"ine_municipio": 11,
+	"ine_parroquia": 4
+}, {
+	"_id": 1038,
+	"estado_id": 21,
+	"municipio_id": 313,
+	"nombre": "Libertad",
+	"ine_municipio": 11,
+	"ine_parroquia": 5
+}, {
+	"_id": 1039,
+	"estado_id": 21,
+	"municipio_id": 314,
+	"nombre": "Udón Pérez",
+	"ine_municipio": 12,
+	"ine_parroquia": 1
+}, {
+	"_id": 1040,
+	"estado_id": 21,
+	"municipio_id": 314,
+	"nombre": "Encontrados",
+	"ine_municipio": 12,
+	"ine_parroquia": 2
+}, {
+	"_id": 1041,
+	"estado_id": 21,
+	"municipio_id": 315,
+	"nombre": "Donaldo García",
+	"ine_municipio": 13,
+	"ine_parroquia": 1
+}, {
+	"_id": 1042,
+	"estado_id": 21,
+	"municipio_id": 315,
+	"nombre": "Sixto Zambrano",
+	"ine_municipio": 13,
+	"ine_parroquia": 2
+}, {
+	"_id": 1043,
+	"estado_id": 21,
+	"municipio_id": 315,
+	"nombre": "El Rosario",
+	"ine_municipio": 13,
+	"ine_parroquia": 3
+}, {
+	"_id": 1044,
+	"estado_id": 21,
+	"municipio_id": 316,
+	"nombre": "Ambrosio",
+	"ine_municipio": 14,
+	"ine_parroquia": 1
+}, {
+	"_id": 1045,
+	"estado_id": 21,
+	"municipio_id": 316,
+	"nombre": "Germán Ríos Linares",
+	"ine_municipio": 14,
+	"ine_parroquia": 2
+}, {
+	"_id": 1046,
+	"estado_id": 21,
+	"municipio_id": 316,
+	"nombre": "Jorge Hernández",
+	"ine_municipio": 14,
+	"ine_parroquia": 3
+}, {
+	"_id": 1047,
+	"estado_id": 21,
+	"municipio_id": 316,
+	"nombre": "La Rosa",
+	"ine_municipio": 14,
+	"ine_parroquia": 4
+}, {
+	"_id": 1048,
+	"estado_id": 21,
+	"municipio_id": 316,
+	"nombre": "Punta Gorda",
+	"ine_municipio": 14,
+	"ine_parroquia": 5
+}, {
+	"_id": 1049,
+	"estado_id": 21,
+	"municipio_id": 316,
+	"nombre": "Carmen Herrera",
+	"ine_municipio": 14,
+	"ine_parroquia": 6
+}, {
+	"_id": 1050,
+	"estado_id": 21,
+	"municipio_id": 316,
+	"nombre": "San Benito",
+	"ine_municipio": 14,
+	"ine_parroquia": 7
+}, {
+	"_id": 1051,
+	"estado_id": 21,
+	"municipio_id": 316,
+	"nombre": "Rómulo Betancourt",
+	"ine_municipio": 14,
+	"ine_parroquia": 8
+}, {
+	"_id": 1052,
+	"estado_id": 21,
+	"municipio_id": 316,
+	"nombre": "Arístides Calvani",
+	"ine_municipio": 14,
+	"ine_parroquia": 9
+}, {
+	"_id": 1053,
+	"estado_id": 21,
+	"municipio_id": 317,
+	"nombre": "Raúl Cuenca",
+	"ine_municipio": 15,
+	"ine_parroquia": 1
+}, {
+	"_id": 1054,
+	"estado_id": 21,
+	"municipio_id": 317,
+	"nombre": "La Victoria",
+	"ine_municipio": 15,
+	"ine_parroquia": 2
+}, {
+	"_id": 1055,
+	"estado_id": 21,
+	"municipio_id": 317,
+	"nombre": "Rafael Urdaneta",
+	"ine_municipio": 15,
+	"ine_parroquia": 3
+}, {
+	"_id": 1056,
+	"estado_id": 21,
+	"municipio_id": 318,
+	"nombre": "José Ramón Yepes",
+	"ine_municipio": 16,
+	"ine_parroquia": 1
+}, {
+	"_id": 1057,
+	"estado_id": 21,
+	"municipio_id": 318,
+	"nombre": "La Concepción",
+	"ine_municipio": 16,
+	"ine_parroquia": 2
+}, {
+	"_id": 1058,
+	"estado_id": 21,
+	"municipio_id": 318,
+	"nombre": "San José",
+	"ine_municipio": 16,
+	"ine_parroquia": 3
+}, {
+	"_id": 1059,
+	"estado_id": 21,
+	"municipio_id": 318,
+	"nombre": "Mariano Parra León",
+	"ine_municipio": 16,
+	"ine_parroquia": 4
+}, {
+	"_id": 1060,
+	"estado_id": 21,
+	"municipio_id": 319,
+	"nombre": "Monagas",
+	"ine_municipio": 17,
+	"ine_parroquia": 1
+}, {
+	"_id": 1061,
+	"estado_id": 21,
+	"municipio_id": 319,
+	"nombre": "Isla de Toas",
+	"ine_municipio": 17,
+	"ine_parroquia": 2
+}, {
+	"_id": 1062,
+	"estado_id": 21,
+	"municipio_id": 320,
+	"nombre": "Marcial Hernández",
+	"ine_municipio": 18,
+	"ine_parroquia": 1
+}, {
+	"_id": 1063,
+	"estado_id": 21,
+	"municipio_id": 320,
+	"nombre": "Francisco Ochoa",
+	"ine_municipio": 18,
+	"ine_parroquia": 2
+}, {
+	"_id": 1064,
+	"estado_id": 21,
+	"municipio_id": 320,
+	"nombre": "San Francisco",
+	"ine_municipio": 18,
+	"ine_parroquia": 3
+}, {
+	"_id": 1065,
+	"estado_id": 21,
+	"municipio_id": 320,
+	"nombre": "El Bajo",
+	"ine_municipio": 18,
+	"ine_parroquia": 4
+}, {
+	"_id": 1066,
+	"estado_id": 21,
+	"municipio_id": 320,
+	"nombre": "Domitila Flores",
+	"ine_municipio": 18,
+	"ine_parroquia": 5
+}, {
+	"_id": 1067,
+	"estado_id": 21,
+	"municipio_id": 320,
+	"nombre": "Los Cortijos",
+	"ine_municipio": 18,
+	"ine_parroquia": 6
+}, {
+	"_id": 1068,
+	"estado_id": 21,
+	"municipio_id": 321,
+	"nombre": "Barí",
+	"ine_municipio": 19,
+	"ine_parroquia": 1
+}, {
+	"_id": 1069,
+	"estado_id": 21,
+	"municipio_id": 321,
+	"nombre": "Jesús María Semprún",
+	"ine_municipio": 19,
+	"ine_parroquia": 2
+}, {
+	"_id": 1070,
+	"estado_id": 21,
+	"municipio_id": 322,
+	"nombre": "Simón Rodríguez",
+	"ine_municipio": 20,
+	"ine_parroquia": 1
+}, {
+	"_id": 1071,
+	"estado_id": 21,
+	"municipio_id": 322,
+	"nombre": "Carlos Quevedo",
+	"ine_municipio": 20,
+	"ine_parroquia": 2
+}, {
+	"_id": 1072,
+	"estado_id": 21,
+	"municipio_id": 322,
+	"nombre": "Francisco Javier Pulgar",
+	"ine_municipio": 20,
+	"ine_parroquia": 3
+}, {
+	"_id": 1073,
+	"estado_id": 21,
+	"municipio_id": 323,
+	"nombre": "Rafael María Baralt",
+	"ine_municipio": 21,
+	"ine_parroquia": 1
+}, {
+	"_id": 1074,
+	"estado_id": 21,
+	"municipio_id": 323,
+	"nombre": "Manuel Manrique",
+	"ine_municipio": 21,
+	"ine_parroquia": 2
+}, {
+	"_id": 1075,
+	"estado_id": 21,
+	"municipio_id": 323,
+	"nombre": "Rafael Urdaneta",
+	"ine_municipio": 21,
+	"ine_parroquia": 3
+}, {
+	"_id": 1076,
+	"estado_id": 22,
+	"municipio_id": 324,
+	"nombre": "Fernando Girón Tovar",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 1077,
+	"estado_id": 22,
+	"municipio_id": 324,
+	"nombre": "Luis Alberto Gómez",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 1078,
+	"estado_id": 22,
+	"municipio_id": 324,
+	"nombre": "Parhueña",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 1079,
+	"estado_id": 22,
+	"municipio_id": 324,
+	"nombre": "Platanillal",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 1080,
+	"estado_id": 22,
+	"municipio_id": 325,
+	"nombre": "San Fernando de Atabapo",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 1081,
+	"estado_id": 22,
+	"municipio_id": 325,
+	"nombre": "Ucata",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 1082,
+	"estado_id": 22,
+	"municipio_id": 325,
+	"nombre": "Yapacana",
+	"ine_municipio": 2,
+	"ine_parroquia": 3
+}, {
+	"_id": 1083,
+	"estado_id": 22,
+	"municipio_id": 325,
+	"nombre": "Caname",
+	"ine_municipio": 2,
+	"ine_parroquia": 4
+}, {
+	"_id": 1084,
+	"estado_id": 22,
+	"municipio_id": 326,
+	"nombre": "Maroa",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 1085,
+	"estado_id": 22,
+	"municipio_id": 326,
+	"nombre": "Victorino",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 1086,
+	"estado_id": 22,
+	"municipio_id": 326,
+	"nombre": "Comunidad",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 1087,
+	"estado_id": 22,
+	"municipio_id": 327,
+	"nombre": "San Carlos de Río Negro",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 1088,
+	"estado_id": 22,
+	"municipio_id": 327,
+	"nombre": "Solano",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 1089,
+	"estado_id": 22,
+	"municipio_id": 327,
+	"nombre": "Casiquiare",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 1090,
+	"estado_id": 22,
+	"municipio_id": 327,
+	"nombre": "Cocuy",
+	"ine_municipio": 4,
+	"ine_parroquia": 4
+}, {
+	"_id": 1091,
+	"estado_id": 22,
+	"municipio_id": 328,
+	"nombre": "Isla Ratón",
+	"ine_municipio": 5,
+	"ine_parroquia": 1
+}, {
+	"_id": 1092,
+	"estado_id": 22,
+	"municipio_id": 328,
+	"nombre": "Samariapo",
+	"ine_municipio": 5,
+	"ine_parroquia": 2
+}, {
+	"_id": 1093,
+	"estado_id": 22,
+	"municipio_id": 328,
+	"nombre": "Sipapo",
+	"ine_municipio": 5,
+	"ine_parroquia": 3
+}, {
+	"_id": 1094,
+	"estado_id": 22,
+	"municipio_id": 328,
+	"nombre": "Munduapo",
+	"ine_municipio": 5,
+	"ine_parroquia": 4
+}, {
+	"_id": 1095,
+	"estado_id": 22,
+	"municipio_id": 328,
+	"nombre": "Guayapo",
+	"ine_municipio": 5,
+	"ine_parroquia": 5
+}, {
+	"_id": 1096,
+	"estado_id": 22,
+	"municipio_id": 329,
+	"nombre": "San Juan de Manapiare",
+	"ine_municipio": 6,
+	"ine_parroquia": 1
+}, {
+	"_id": 1097,
+	"estado_id": 22,
+	"municipio_id": 329,
+	"nombre": "Alto Ventuari",
+	"ine_municipio": 6,
+	"ine_parroquia": 2
+}, {
+	"_id": 1098,
+	"estado_id": 22,
+	"municipio_id": 329,
+	"nombre": "Medio Ventuari",
+	"ine_municipio": 6,
+	"ine_parroquia": 3
+}, {
+	"_id": 1099,
+	"estado_id": 22,
+	"municipio_id": 329,
+	"nombre": "Bajo Ventuari",
+	"ine_municipio": 6,
+	"ine_parroquia": 4
+}, {
+	"_id": 1100,
+	"estado_id": 22,
+	"municipio_id": 330,
+	"nombre": "La Esmeralda ",
+	"ine_municipio": 7,
+	"ine_parroquia": 1
+}, {
+	"_id": 1101,
+	"estado_id": 22,
+	"municipio_id": 330,
+	"nombre": "Huachamacare",
+	"ine_municipio": 7,
+	"ine_parroquia": 2
+}, {
+	"_id": 1102,
+	"estado_id": 22,
+	"municipio_id": 330,
+	"nombre": "Marawaka",
+	"ine_municipio": 7,
+	"ine_parroquia": 3
+}, {
+	"_id": 1103,
+	"estado_id": 22,
+	"municipio_id": 330,
+	"nombre": "Mavaca",
+	"ine_municipio": 7,
+	"ine_parroquia": 4
+}, {
+	"_id": 1104,
+	"estado_id": 22,
+	"municipio_id": 330,
+	"nombre": "Sierra Parima",
+	"ine_municipio": 7,
+	"ine_parroquia": 5
+}, {
+	"_id": 1105,
+	"estado_id": 23,
+	"municipio_id": 331,
+	"nombre": "San José",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 1106,
+	"estado_id": 23,
+	"municipio_id": 331,
+	"nombre": "Virgen del Valle",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 1107,
+	"estado_id": 23,
+	"municipio_id": 331,
+	"nombre": "San Rafael",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 1108,
+	"estado_id": 23,
+	"municipio_id": 331,
+	"nombre": "José Vidal Marcano",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 1109,
+	"estado_id": 23,
+	"municipio_id": 331,
+	"nombre": "Leonardo Ruíz Pineda",
+	"ine_municipio": 1,
+	"ine_parroquia": 5
+}, {
+	"_id": 1110,
+	"estado_id": 23,
+	"municipio_id": 331,
+	"nombre": "Monseñor Argimiro García",
+	"ine_municipio": 1,
+	"ine_parroquia": 6
+}, {
+	"_id": 1111,
+	"estado_id": 23,
+	"municipio_id": 331,
+	"nombre": "Mariscal Antonio José de Sucre",
+	"ine_municipio": 1,
+	"ine_parroquia": 7
+}, {
+	"_id": 1112,
+	"estado_id": 23,
+	"municipio_id": 331,
+	"nombre": "Juan Millán",
+	"ine_municipio": 1,
+	"ine_parroquia": 8
+}, {
+	"_id": 1113,
+	"estado_id": 23,
+	"municipio_id": 332,
+	"nombre": "Pedernales",
+	"ine_municipio": 2,
+	"ine_parroquia": 1
+}, {
+	"_id": 1114,
+	"estado_id": 23,
+	"municipio_id": 332,
+	"nombre": "Luis Beltrán Prieto Figueroa",
+	"ine_municipio": 2,
+	"ine_parroquia": 2
+}, {
+	"_id": 1115,
+	"estado_id": 23,
+	"municipio_id": 333,
+	"nombre": "Curiapo",
+	"ine_municipio": 3,
+	"ine_parroquia": 1
+}, {
+	"_id": 1116,
+	"estado_id": 23,
+	"municipio_id": 333,
+	"nombre": "Santos de Abelgas",
+	"ine_municipio": 3,
+	"ine_parroquia": 2
+}, {
+	"_id": 1117,
+	"estado_id": 23,
+	"municipio_id": 333,
+	"nombre": "Manuel Renaud",
+	"ine_municipio": 3,
+	"ine_parroquia": 3
+}, {
+	"_id": 1118,
+	"estado_id": 23,
+	"municipio_id": 333,
+	"nombre": "Padre Barral",
+	"ine_municipio": 3,
+	"ine_parroquia": 4
+}, {
+	"_id": 1119,
+	"estado_id": 23,
+	"municipio_id": 333,
+	"nombre": "Francisco Aniceto Lugo",
+	"ine_municipio": 3,
+	"ine_parroquia": 5
+}, {
+	"_id": 1120,
+	"estado_id": 23,
+	"municipio_id": 333,
+	"nombre": "Almirante Luis Brión",
+	"ine_municipio": 3,
+	"ine_parroquia": 6
+}, {
+	"_id": 1121,
+	"estado_id": 23,
+	"municipio_id": 334,
+	"nombre": "Imataca",
+	"ine_municipio": 4,
+	"ine_parroquia": 1
+}, {
+	"_id": 1122,
+	"estado_id": 23,
+	"municipio_id": 334,
+	"nombre": "Rómulo Gallegos",
+	"ine_municipio": 4,
+	"ine_parroquia": 2
+}, {
+	"_id": 1123,
+	"estado_id": 23,
+	"municipio_id": 334,
+	"nombre": "Juan Bautista Arismendi",
+	"ine_municipio": 4,
+	"ine_parroquia": 3
+}, {
+	"_id": 1124,
+	"estado_id": 23,
+	"municipio_id": 334,
+	"nombre": "Manuel Piar",
+	"ine_municipio": 4,
+	"ine_parroquia": 4
+}, {
+	"_id": 1125,
+	"estado_id": 24,
+	"municipio_id": 335,
+	"nombre": "Caraballeda",
+	"ine_municipio": 1,
+	"ine_parroquia": 1
+}, {
+	"_id": 1126,
+	"estado_id": 24,
+	"municipio_id": 335,
+	"nombre": "Carayaca",
+	"ine_municipio": 1,
+	"ine_parroquia": 2
+}, {
+	"_id": 1127,
+	"estado_id": 24,
+	"municipio_id": 335,
+	"nombre": "Caruao",
+	"ine_municipio": 1,
+	"ine_parroquia": 3
+}, {
+	"_id": 1128,
+	"estado_id": 24,
+	"municipio_id": 335,
+	"nombre": "Catia La Mar",
+	"ine_municipio": 1,
+	"ine_parroquia": 4
+}, {
+	"_id": 1129,
+	"estado_id": 24,
+	"municipio_id": 335,
+	"nombre": "La Guaira",
+	"ine_municipio": 1,
+	"ine_parroquia": 5
+}, {
+	"_id": 1130,
+	"estado_id": 24,
+	"municipio_id": 335,
+	"nombre": "Macuto",
+	"ine_municipio": 1,
+	"ine_parroquia": 6
+}, {
+	"_id": 1131,
+	"estado_id": 24,
+	"municipio_id": 335,
+	"nombre": "Maiquetía",
+	"ine_municipio": 1,
+	"ine_parroquia": 7
+}, {
+	"_id": 1132,
+	"estado_id": 24,
+	"municipio_id": 335,
+	"nombre": "Naiguatá",
+	"ine_municipio": 1,
+	"ine_parroquia": 8
+}, {
+	"_id": 1133,
+	"estado_id": 24,
+	"municipio_id": 335,
+	"nombre": "Urimare",
+	"ine_municipio": 1,
+	"ine_parroquia": 10
+}, {
+	"_id": 1134,
+	"estado_id": 24,
+	"municipio_id": 335,
+	"nombre": "Carlos Soublette",
+	"ine_municipio": 1,
+	"ine_parroquia": 11
+}, {
+	"_id": 1135,
+	"estado_id": 24,
+	"municipio_id": 335,
+	"nombre": "El Junko",
+	"ine_municipio": 1,
+	"ine_parroquia": 9
+}]
