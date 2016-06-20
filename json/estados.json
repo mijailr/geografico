@@ -1,0 +1,73 @@
+[{
+	"_id": 1,
+	"nombre": "Distrito Capital"
+}, {
+	"_id": 2,
+	"nombre": "Anzoátegui"
+}, {
+	"_id": 3,
+	"nombre": "Apure"
+}, {
+	"_id": 4,
+	"nombre": "Aragua"
+}, {
+	"_id": 5,
+	"nombre": "Barinas"
+}, {
+	"_id": 6,
+	"nombre": "Bolivar"
+}, {
+	"_id": 7,
+	"nombre": "Carabobo"
+}, {
+	"_id": 8,
+	"nombre": "Cojedes"
+}, {
+	"_id": 9,
+	"nombre": "Falcón"
+}, {
+	"_id": 10,
+	"nombre": "Guárico"
+}, {
+	"_id": 11,
+	"nombre": "Lara"
+}, {
+	"_id": 12,
+	"nombre": "Mérida"
+}, {
+	"_id": 13,
+	"nombre": "Miranda"
+}, {
+	"_id": 14,
+	"nombre": "Monagas"
+}, {
+	"_id": 15,
+	"nombre": "Nueva Esparta"
+}, {
+	"_id": 16,
+	"nombre": "Portuguesa"
+}, {
+	"_id": 17,
+	"nombre": "Sucre"
+}, {
+	"_id": 18,
+	"nombre": "Táchira"
+}, {
+	"_id": 19,
+	"nombre": "Trujillo"
+}, {
+	"_id": 20,
+	"nombre": "Yaracuy"
+}, {
+	"_id": 21,
+	"nombre": "Zulia"
+}, {
+	"_id": 22,
+	"nombre": "Amazonas"
+}, {
+	"_id": 23,
+	"nombre": "Delta Amacuro"
+}, {
+	"_id": 24,
+	"nombre": "Vargas"
+}]
